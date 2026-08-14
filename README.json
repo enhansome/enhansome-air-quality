@@ -287,7 +287,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "R",
-                "last_commit": "2026-08-13T16:20:12Z",
+                "last_commit": "2026-08-14T15:57:53Z",
                 "owner": "openair-project",
                 "repo": "openair",
                 "stars": 361
@@ -809,7 +809,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T00:01:05.496Z",
+    "last_updated": "2026-08-14T23:39:50.291Z",
     "original_repository": "openaq/awesome-air-quality",
     "original_repository_sha": "4624d3dd9b577a63c8c75bf87588f1697f7cba51",
     "enhanced_repository": "enhansome/enhansome-air-quality",
