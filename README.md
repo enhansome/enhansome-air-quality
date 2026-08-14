@@ -28,13 +28,13 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
   * [airbase](https://github.com/JohnPaton/airbase) ⭐ 11 | 🐛 6 | 🌐 Python | 📅 2025-10-14 - An easy downloader for the AirBase air quality data.
   * [py-quantaq](https://github.com/quant-aq/py-quantaq) ⭐ 11 | 🐛 3 | 🌐 Python | 📅 2025-12-24 - *A python wrapper for the QuantAQ RESTful API*
   * [aeolus](https://github.com/southlondonscientific/aeolus) ⭐ 9 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-06-11 - *Download and analyse air quality data from 14 monitoring networks with a unified schema. Includes trend analysis and AQI calculations.* [PyPI](https://pypi.org/project/aeolus-aq/)
-  * [The QuantAQ CLI](https://github.com/quant-aq/cli) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2026-08-12 - *QuantAQ command line interface*
+  * [The QuantAQ CLI](https://github.com/quant-aq/cli) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2026-08-13 - *QuantAQ command line interface*
   * [quantpy](https://github.com/wacl-york/quant-air-pollution-measurement-errors) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2023-04-27 - *Provides tools for visually evaluating low-cost air quality sensors*
   * [airinsights](https://github.com/edf-org/airinsights) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-08-12 - Analysis suite to translate local air quality data into actionable insights.
 
 * R
-  * [CMAQ](https://github.com/USEPA/CMAQ) ⭐ 361 | 🐛 6 | 🌐 Fortran | 📅 2026-07-09 - Code for U.S. EPA’s Community Multiscale Air Quality Model (CMAQ) which helps in conducting air quality model simulations.
-  * [openair](https://github.com/davidcarslaw/openair) ⭐ 361 | 🐛 30 | 🌐 R | 📅 2026-08-12 - *Tools to analyse, interpret and understand air pollution data. Data are typically hourly time series and both monitoring data and dispersion model output can be analysed. Many functions can also be applied to other data, including meteorological and traffic data.* [CRAN](https://cran.r-project.org/web/packages/openair/index.html)
+  * [CMAQ](https://github.com/USEPA/CMAQ) ⭐ 362 | 🐛 6 | 🌐 Fortran | 📅 2026-07-09 - Code for U.S. EPA’s Community Multiscale Air Quality Model (CMAQ) which helps in conducting air quality model simulations.
+  * [openair](https://github.com/davidcarslaw/openair) ⭐ 361 | 🐛 29 | 🌐 R | 📅 2026-08-13 - *Tools to analyse, interpret and understand air pollution data. Data are typically hourly time series and both monitoring data and dispersion model output can be analysed. Many functions can also be applied to other data, including meteorological and traffic data.* [CRAN](https://cran.r-project.org/web/packages/openair/index.html)
   * [rmweather](https://github.com/skgrange/rmweather) ⭐ 56 | 🐛 0 | 🌐 R | 📅 2025-12-03 - Tools to Conduct Meteorological Normalisation on Air Quality Data.
   * [AirSensor](https://github.com/MazamaScience/AirSensor) ⭐ 40 | 🐛 8 | 🌐 R | 📅 2023-04-26  - *Utilities for working with data from PurpleAir sensors*[CRAN](https://cran.r-project.org/web/packages/AirSensor/index.html)
   * [biteSizedAQ](https://github.com/AarshBatra/biteSizedAQ/) ⭐ 31 | 🐛 0 | 🌐 R | 📅 2026-07-31 - *A collection of bite sized projects aimed at democratizing access to air quality data, pipelines and insights in a manner that is free, open, accessible and easy to understand. Air pollution can feel like a giant overwhelming issue and it is, but by consistently taking bite-sized smart steps, we can collectively make significant progress in tackling it!*
@@ -85,4 +85,4 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
