@@ -276,7 +276,7 @@
                 "last_commit": "2026-07-09T14:55:57Z",
                 "owner": "USEPA",
                 "repo": "CMAQ",
-                "stars": 362
+                "stars": 363
               }
             },
             {
@@ -809,7 +809,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T23:39:50.291Z",
+    "last_updated": "2026-08-15T23:36:38.455Z",
     "original_repository": "openaq/awesome-air-quality",
     "original_repository_sha": "4624d3dd9b577a63c8c75bf87588f1697f7cba51",
     "enhanced_repository": "enhansome/enhansome-air-quality",

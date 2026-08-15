@@ -33,7 +33,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
   * [airinsights](https://github.com/edf-org/airinsights) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-08-12 - Analysis suite to translate local air quality data into actionable insights.
 
 * R
-  * [CMAQ](https://github.com/USEPA/CMAQ) ⭐ 362 | 🐛 6 | 🌐 Fortran | 📅 2026-07-09 - Code for U.S. EPA’s Community Multiscale Air Quality Model (CMAQ) which helps in conducting air quality model simulations.
+  * [CMAQ](https://github.com/USEPA/CMAQ) ⭐ 363 | 🐛 6 | 🌐 Fortran | 📅 2026-07-09 - Code for U.S. EPA’s Community Multiscale Air Quality Model (CMAQ) which helps in conducting air quality model simulations.
   * [openair](https://github.com/davidcarslaw/openair) ⭐ 361 | 🐛 29 | 🌐 R | 📅 2026-08-14 - *Tools to analyse, interpret and understand air pollution data. Data are typically hourly time series and both monitoring data and dispersion model output can be analysed. Many functions can also be applied to other data, including meteorological and traffic data.* [CRAN](https://cran.r-project.org/web/packages/openair/index.html)
   * [rmweather](https://github.com/skgrange/rmweather) ⭐ 56 | 🐛 0 | 🌐 R | 📅 2025-12-03 - Tools to Conduct Meteorological Normalisation on Air Quality Data.
   * [AirSensor](https://github.com/MazamaScience/AirSensor) ⭐ 40 | 🐛 8 | 🌐 R | 📅 2023-04-26  - *Utilities for working with data from PurpleAir sensors*[CRAN](https://cran.r-project.org/web/packages/AirSensor/index.html)
@@ -85,4 +85,4 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
