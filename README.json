@@ -168,7 +168,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2024-09-13T19:08:03Z",
+                "last_commit": "2026-08-17T12:23:58Z",
                 "owner": "dhhagan",
                 "repo": "atmospy",
                 "stars": 15
@@ -224,7 +224,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-13T18:29:41Z",
+                "last_commit": "2026-08-17T20:29:25Z",
                 "owner": "quant-aq",
                 "repo": "cli",
                 "stars": 8
@@ -252,7 +252,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-12T21:03:07Z",
+                "last_commit": "2026-08-17T14:31:13Z",
                 "owner": "edf-org",
                 "repo": "airinsights",
                 "stars": 1
@@ -741,7 +741,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-10T16:26:56Z",
+                "last_commit": "2026-08-17T18:35:49Z",
                 "owner": "USEPA",
                 "repo": "pyaqsapi",
                 "stars": 29
@@ -809,7 +809,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T23:35:33.016Z",
+    "last_updated": "2026-08-17T23:40:03.309Z",
     "original_repository": "openaq/awesome-air-quality",
     "original_repository_sha": "4624d3dd9b577a63c8c75bf87588f1697f7cba51",
     "enhanced_repository": "enhansome/enhansome-air-quality",
