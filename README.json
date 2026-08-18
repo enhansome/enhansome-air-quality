@@ -168,7 +168,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-17T12:23:58Z",
+                "last_commit": "2026-08-18T17:20:00Z",
                 "owner": "dhhagan",
                 "repo": "atmospy",
                 "stars": 15
@@ -224,7 +224,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-17T20:29:25Z",
+                "last_commit": "2026-08-18T19:05:32Z",
                 "owner": "quant-aq",
                 "repo": "cli",
                 "stars": 8
@@ -809,7 +809,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T23:40:03.309Z",
+    "last_updated": "2026-08-18T23:39:39.099Z",
     "original_repository": "openaq/awesome-air-quality",
     "original_repository_sha": "4624d3dd9b577a63c8c75bf87588f1697f7cba51",
     "enhanced_repository": "enhansome/enhansome-air-quality",
