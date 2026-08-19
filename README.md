@@ -24,10 +24,10 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
   * [sensortoolkit](https://github.com/USEPA/sensortoolkit) ⭐ 31 | 🐛 5 | 🌐 Python | 📅 2024-12-11 - *Air Sensor Data Analysis Library*
   * [openaq-python](https://github.com/openaq/openaq-python) ⭐ 22 | 🐛 4 | 🌐 Python | 📅 2026-08-10 - Official OpenAQ Python SDK for working with the OpenAQ API.
   * [py-opcsim](https://github.com/dhhagan/opcsim) ⭐ 19 | 🐛 8 | 🌐 Python | 📅 2024-12-24 - *Python library to simulate OPCs and Nephlometers under different conditions*
+  * [aeolus](https://github.com/southlondonscientific/aeolus) ⭐ 17 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-06-11 - *Download and analyse air quality data from 14 monitoring networks with a unified schema. Includes trend analysis and AQI calculations.* [PyPI](https://pypi.org/project/aeolus-aq/)
   * [atmospy](https://github.com/quant-aq/atmospy) ⭐ 15 | 🐛 9 | 🌐 Python | 📅 2026-08-18  - *visualization and analysis tools for air quality data in python*
   * [airbase](https://github.com/JohnPaton/airbase) ⭐ 11 | 🐛 6 | 🌐 Python | 📅 2025-10-14 - An easy downloader for the AirBase air quality data.
   * [py-quantaq](https://github.com/quant-aq/py-quantaq) ⭐ 11 | 🐛 3 | 🌐 Python | 📅 2025-12-24 - *A python wrapper for the QuantAQ RESTful API*
-  * [aeolus](https://github.com/southlondonscientific/aeolus) ⭐ 9 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-06-11 - *Download and analyse air quality data from 14 monitoring networks with a unified schema. Includes trend analysis and AQI calculations.* [PyPI](https://pypi.org/project/aeolus-aq/)
   * [The QuantAQ CLI](https://github.com/quant-aq/cli) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2026-08-18 - *QuantAQ command line interface*
   * [quantpy](https://github.com/wacl-york/quant-air-pollution-measurement-errors) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2023-04-27 - *Provides tools for visually evaluating low-cost air quality sensors*
   * [airinsights](https://github.com/edf-org/airinsights) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-08-17 - Analysis suite to translate local air quality data into actionable insights.
@@ -85,4 +85,4 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
