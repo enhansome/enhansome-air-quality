@@ -263,7 +263,7 @@
                 "archived": false,
                 "id": 1219229692,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:31:13Z",
+                "last_commit": "2026-08-19T20:02:03Z",
                 "owner": "edf-org",
                 "repo": "airinsights",
                 "stars": 1
@@ -849,7 +849,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:15:15.791Z",
+    "last_updated": "2026-08-19T23:39:53.181Z",
     "original_repository": "openaq/awesome-air-quality",
     "original_repository_id": 74869843,
     "original_repository_sha": "4624d3dd9b577a63c8c75bf87588f1697f7cba51",
