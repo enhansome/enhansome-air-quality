@@ -263,7 +263,7 @@
                 "archived": false,
                 "id": 1219229692,
                 "language": "Python",
-                "last_commit": "2026-08-19T20:02:03Z",
+                "last_commit": "2026-08-20T21:09:03Z",
                 "owner": "edf-org",
                 "repo": "airinsights",
                 "stars": 1
@@ -705,7 +705,7 @@
                 "last_commit": "2026-07-16T11:05:17Z",
                 "owner": "Sensirion",
                 "repo": "arduino-i2c-scd4x",
-                "stars": 81
+                "stars": 82
               }
             },
             {
@@ -772,7 +772,7 @@
                 "last_commit": "2024-05-10T10:51:55Z",
                 "owner": "pimoroni",
                 "repo": "bme680-python",
-                "stars": 288
+                "stars": 287
               }
             },
             {
@@ -849,7 +849,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T23:39:53.181Z",
+    "last_updated": "2026-08-20T23:42:32.628Z",
     "original_repository": "openaq/awesome-air-quality",
     "original_repository_id": 74869843,
     "original_repository_sha": "4624d3dd9b577a63c8c75bf87588f1697f7cba51",
