@@ -303,7 +303,7 @@
                 "last_commit": "2026-08-14T15:57:53Z",
                 "owner": "openair-project",
                 "repo": "openair",
-                "stars": 361
+                "stars": 362
               }
             },
             {
@@ -849,7 +849,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T23:42:32.628Z",
+    "last_updated": "2026-08-21T23:41:59.834Z",
     "original_repository": "openaq/awesome-air-quality",
     "original_repository_id": 74869843,
     "original_repository_sha": "4624d3dd9b577a63c8c75bf87588f1697f7cba51",
