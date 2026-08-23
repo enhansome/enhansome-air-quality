@@ -705,7 +705,7 @@
                 "last_commit": "2026-07-16T11:05:17Z",
                 "owner": "Sensirion",
                 "repo": "arduino-i2c-scd4x",
-                "stars": 82
+                "stars": 83
               }
             },
             {
@@ -849,7 +849,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T23:36:58.000Z",
+    "last_updated": "2026-08-23T23:37:47.383Z",
     "original_repository": "openaq/awesome-air-quality",
     "original_repository_id": 74869843,
     "original_repository_sha": "4624d3dd9b577a63c8c75bf87588f1697f7cba51",

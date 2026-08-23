@@ -68,7 +68,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
 
 * C++
   * [PMS](https://github.com/fu-hsi/PMS) ⭐ 155 | 🐛 8 | 🌐 C++ | 📅 2022-03-13 - *Arduino library for Plantower PMS x003 family sensors.*
-  * [Arduino library for Sensirion SCD4x sensors](https://github.com/Sensirion/arduino-i2c-scd4x) ⭐ 82 | 🐛 2 | 🌐 C++ | 📅 2026-07-16
+  * [Arduino library for Sensirion SCD4x sensors](https://github.com/Sensirion/arduino-i2c-scd4x) ⭐ 83 | 🐛 2 | 🌐 C++ | 📅 2026-07-16
   * [Sensirion SPS30 driver for ESP32, SODAQ, MEGA2560, UNO, ESP8266, Particle-photon on UART OR I2C coummunication](https://github.com/paulvha/sps30) ⭐ 69 | 🐛 2 | 🌐 C++ | 📅 2026-04-18
   * [Nova Fitness SDS dust sensors arduino library](https://github.com/lewapek/sds-dust-sensors-arduino-library) ⭐ 68 | 🐛 5 | 🌐 C++ | 📅 2022-02-16
   * [Embedded UART Driver for Sensirion Particulate Matter Sensors](https://github.com/Sensirion/embedded-uart-sps) ⚠️ Archived
@@ -85,4 +85,4 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
