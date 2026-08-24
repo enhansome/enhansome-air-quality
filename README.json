@@ -345,7 +345,7 @@
                 "archived": false,
                 "id": 813352266,
                 "language": "R",
-                "last_commit": "2026-07-31T04:03:55Z",
+                "last_commit": "2026-08-24T21:23:32Z",
                 "owner": "AarshBatra",
                 "repo": "biteSizedAQ",
                 "stars": 31
@@ -784,7 +784,7 @@
                 "archived": false,
                 "id": 573452982,
                 "language": "Python",
-                "last_commit": "2026-08-17T18:35:49Z",
+                "last_commit": "2026-08-24T16:24:08Z",
                 "owner": "USEPA",
                 "repo": "pyaqsapi",
                 "stars": 29
@@ -849,7 +849,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:43:45.941Z",
+    "last_updated": "2026-08-24T23:39:18.932Z",
     "original_repository": "openaq/awesome-air-quality",
     "original_repository_id": 74869843,
     "original_repository_sha": "4624d3dd9b577a63c8c75bf87588f1697f7cba51",
