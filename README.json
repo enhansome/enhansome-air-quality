@@ -849,9 +849,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:32:14.313Z",
-    "original_repository": "openaq/awesome-air-quality",
-    "original_repository_id": 74869843,
+    "last_updated": "2026-08-27T11:19:23.471Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 74869843,
+      "language": null,
+      "last_commit": "2026-06-24T16:46:25Z",
+      "owner": "openaq",
+      "repo": "awesome-air-quality",
+      "stars": 70
+    },
     "original_repository_sha": "4624d3dd9b577a63c8c75bf87588f1697f7cba51",
     "enhanced_repository": "enhansome/enhansome-air-quality",
     "enhanced_repository_description": null,
