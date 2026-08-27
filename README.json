@@ -116,7 +116,7 @@
                 "last_commit": "2026-07-10T21:37:05Z",
                 "owner": "quant-aq",
                 "repo": "py-smps",
-                "stars": 40
+                "stars": 41
               }
             },
             {
@@ -263,7 +263,7 @@
                 "archived": false,
                 "id": 1219229692,
                 "language": "Python",
-                "last_commit": "2026-08-25T16:53:05Z",
+                "last_commit": "2026-08-26T22:19:01Z",
                 "owner": "edf-org",
                 "repo": "airinsights",
                 "stars": 1
@@ -769,7 +769,7 @@
                 "archived": false,
                 "id": 107002529,
                 "language": "Python",
-                "last_commit": "2024-05-10T10:51:55Z",
+                "last_commit": "2026-08-26T20:48:47Z",
                 "owner": "pimoroni",
                 "repo": "bme680-python",
                 "stars": 287
@@ -784,7 +784,7 @@
                 "archived": false,
                 "id": 573452982,
                 "language": "Python",
-                "last_commit": "2026-08-24T16:24:08Z",
+                "last_commit": "2026-08-26T15:10:34Z",
                 "owner": "USEPA",
                 "repo": "pyaqsapi",
                 "stars": 29
@@ -849,7 +849,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T23:40:35.995Z",
+    "last_updated": "2026-08-27T04:32:14.313Z",
     "original_repository": "openaq/awesome-air-quality",
     "original_repository_id": 74869843,
     "original_repository_sha": "4624d3dd9b577a63c8c75bf87588f1697f7cba51",

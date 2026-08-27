@@ -20,7 +20,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
 * Python
   * [python-aqi](https://github.com/hrbonz/python-aqi) ⭐ 66 | 🐛 28 | 🌐 Python | 📅 2021-11-30 - *A library to convert between AQI value and pollutant concentration (µg/m³ or ppm)*
   * [py-openaq](https://github.com/dhhagan/py-openaq) ⭐ 65 | 🐛 19 | 🌐 Python | 📅 2025-03-13 - *python wrapper for the OpenAQ API*
-  * [py-smps](https://github.com/quant-aq/py-smps) ⭐ 40 | 🐛 10 | 🌐 Python | 📅 2026-07-10 - *Python library for the analysis and visualization of data from a Scanning Mobility Particle Sizer (SMPS) and other similar instruments (SEMS, OPC's).*
+  * [py-smps](https://github.com/quant-aq/py-smps) ⭐ 41 | 🐛 10 | 🌐 Python | 📅 2026-07-10 - *Python library for the analysis and visualization of data from a Scanning Mobility Particle Sizer (SMPS) and other similar instruments (SEMS, OPC's).*
   * [sensortoolkit](https://github.com/USEPA/sensortoolkit) ⭐ 31 | 🐛 5 | 🌐 Python | 📅 2024-12-11 - *Air Sensor Data Analysis Library*
   * [openaq-python](https://github.com/openaq/openaq-python) ⭐ 22 | 🐛 4 | 🌐 Python | 📅 2026-08-10 - Official OpenAQ Python SDK for working with the OpenAQ API.
   * [py-opcsim](https://github.com/dhhagan/opcsim) ⭐ 19 | 🐛 8 | 🌐 Python | 📅 2024-12-24 - *Python library to simulate OPCs and Nephlometers under different conditions*
@@ -30,7 +30,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
   * [py-quantaq](https://github.com/quant-aq/py-quantaq) ⭐ 11 | 🐛 3 | 🌐 Python | 📅 2025-12-24 - *A python wrapper for the QuantAQ RESTful API*
   * [The QuantAQ CLI](https://github.com/quant-aq/cli) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2026-08-18 - *QuantAQ command line interface*
   * [quantpy](https://github.com/wacl-york/quant-air-pollution-measurement-errors) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2023-04-27 - *Provides tools for visually evaluating low-cost air quality sensors*
-  * [airinsights](https://github.com/edf-org/airinsights) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-08-25 - Analysis suite to translate local air quality data into actionable insights.
+  * [airinsights](https://github.com/edf-org/airinsights) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-08-26 - Analysis suite to translate local air quality data into actionable insights.
 
 * R
   * [CMAQ](https://github.com/USEPA/CMAQ) ⭐ 363 | 🐛 7 | 🌐 Fortran | 📅 2026-07-09 - Code for U.S. EPA’s Community Multiscale Air Quality Model (CMAQ) which helps in conducting air quality model simulations.
@@ -74,8 +74,8 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
   * [Embedded UART Driver for Sensirion Particulate Matter Sensors](https://github.com/Sensirion/embedded-uart-sps) ⚠️ Archived
 
 * Python
-  * [bme680-python](https://github.com/pimoroni/bme680-python) ⭐ 287 | 🐛 9 | 🌐 Python | 📅 2024-05-10 - *Python library for the BME680 gas, temperature, humidity and pressure sensor.*
-  * [pyaqsapi](https://github.com/USEPA/pyaqsapi) ⭐ 29 | 🐛 7 | 🌐 Python | 📅 2026-08-24 - A python 3 package to retrieve ambient air monitoring data from the United States Environmental Protection Agency’s (US EPA) Air Quality System (AQS) Data Mart API v2 interface
+  * [bme680-python](https://github.com/pimoroni/bme680-python) ⭐ 287 | 🐛 10 | 🌐 Python | 📅 2026-08-26 - *Python library for the BME680 gas, temperature, humidity and pressure sensor.*
+  * [pyaqsapi](https://github.com/USEPA/pyaqsapi) ⭐ 29 | 🐛 3 | 🌐 Python | 📅 2026-08-26 - A python 3 package to retrieve ambient air monitoring data from the United States Environmental Protection Agency’s (US EPA) Air Quality System (AQS) Data Mart API v2 interface
   * [Software to read out Sensirion SCD30 CO₂ Sensor values over I2C on Raspberry Pi](https://github.com/UnravelTEC/Raspi-Driver-SCD30) ⭐ 25 | 🐛 1 | 🌐 Python | 📅 2020-10-29
   * [py-licor](https://github.com/quant-aq/py-licor) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2019-11-06 - *Python logging software for the Licor 840 CO2/H2O analyzer*
   * [Sentinair](https://github.com/domenico-suriano/SentinAir) - *A flexible tool for data acquisition from heterogeneous low-cost gas sensors and other devices*
@@ -85,4 +85,4 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
