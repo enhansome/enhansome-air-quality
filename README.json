@@ -21,7 +21,8 @@
                 "owner": "hzexe",
                 "repo": "openair",
                 "stars": 108
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             }
           ]
         },
@@ -43,7 +44,8 @@
                 "owner": "dbeaudoinfortin",
                 "repo": "NAPSDataAnalysis",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             }
           ]
         },
@@ -65,7 +67,8 @@
                 "owner": "nickolasclarke",
                 "repo": "openaq",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             }
           ]
         },
@@ -87,7 +90,8 @@
                 "owner": "hrbonz",
                 "repo": "python-aqi",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             },
             {
               "node_type": "item",
@@ -102,7 +106,8 @@
                 "owner": "dhhagan",
                 "repo": "py-openaq",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             },
             {
               "node_type": "item",
@@ -117,7 +122,8 @@
                 "owner": "quant-aq",
                 "repo": "py-smps",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             },
             {
               "node_type": "item",
@@ -132,7 +138,8 @@
                 "owner": "USEPA",
                 "repo": "sensortoolkit",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             },
             {
               "node_type": "item",
@@ -147,7 +154,8 @@
                 "owner": "openaq",
                 "repo": "openaq-python",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             },
             {
               "node_type": "item",
@@ -162,7 +170,8 @@
                 "owner": "dhhagan",
                 "repo": "opcsim",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             },
             {
               "node_type": "item",
@@ -177,7 +186,8 @@
                 "owner": "southlondonscientific",
                 "repo": "aeolus",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             },
             {
               "node_type": "item",
@@ -192,7 +202,8 @@
                 "owner": "dhhagan",
                 "repo": "atmospy",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             },
             {
               "node_type": "item",
@@ -207,7 +218,8 @@
                 "owner": "JohnPaton",
                 "repo": "airbase",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             },
             {
               "node_type": "item",
@@ -222,7 +234,8 @@
                 "owner": "quant-aq",
                 "repo": "py-quantaq",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             },
             {
               "node_type": "item",
@@ -233,11 +246,12 @@
                 "archived": false,
                 "id": 269229902,
                 "language": "Python",
-                "last_commit": "2026-08-18T19:05:32Z",
+                "last_commit": "2026-08-27T16:06:54Z",
                 "owner": "quant-aq",
                 "repo": "cli",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             },
             {
               "node_type": "item",
@@ -252,7 +266,8 @@
                 "owner": "wacl-york",
                 "repo": "quant-air-pollution-measurement-errors",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             },
             {
               "node_type": "item",
@@ -263,11 +278,12 @@
                 "archived": false,
                 "id": 1219229692,
                 "language": "Python",
-                "last_commit": "2026-08-26T22:19:01Z",
+                "last_commit": "2026-08-27T21:48:03Z",
                 "owner": "edf-org",
                 "repo": "airinsights",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             }
           ]
         },
@@ -289,7 +305,8 @@
                 "owner": "USEPA",
                 "repo": "CMAQ",
                 "stars": 363
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             },
             {
               "node_type": "item",
@@ -304,7 +321,8 @@
                 "owner": "openair-project",
                 "repo": "openair",
                 "stars": 362
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             },
             {
               "node_type": "item",
@@ -319,7 +337,8 @@
                 "owner": "skgrange",
                 "repo": "rmweather",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             },
             {
               "node_type": "item",
@@ -334,7 +353,8 @@
                 "owner": "MazamaScience",
                 "repo": "AirSensor",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             },
             {
               "node_type": "item",
@@ -349,7 +369,8 @@
                 "owner": "AarshBatra",
                 "repo": "biteSizedAQ",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             },
             {
               "node_type": "item",
@@ -364,7 +385,8 @@
                 "owner": "openair-project",
                 "repo": "openairmaps",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             },
             {
               "node_type": "item",
@@ -379,7 +401,8 @@
                 "owner": "ropensci",
                 "repo": "qualR",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             },
             {
               "node_type": "item",
@@ -394,7 +417,8 @@
                 "owner": "USEPA",
                 "repo": "AMET",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             },
             {
               "node_type": "item",
@@ -409,7 +433,8 @@
                 "owner": "USEPA",
                 "repo": "RAQSAPI",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             },
             {
               "node_type": "item",
@@ -424,7 +449,8 @@
                 "owner": "skgrange",
                 "repo": "saqgetr",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             },
             {
               "node_type": "item",
@@ -439,7 +465,8 @@
                 "owner": "MazamaScience",
                 "repo": "AirMonitor",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             },
             {
               "node_type": "item",
@@ -454,7 +481,8 @@
                 "owner": "USEPA",
                 "repo": "Air-Sensor-Network-Analysis-Tool-Public-",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             },
             {
               "node_type": "item",
@@ -469,7 +497,8 @@
                 "owner": "NIEHS",
                 "repo": "beethoven",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             },
             {
               "node_type": "item",
@@ -484,7 +513,8 @@
                 "owner": "wacl-york",
                 "repo": "quant-air-pollution-measurement-errors",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             },
             {
               "node_type": "item",
@@ -499,7 +529,8 @@
                 "owner": "openvironment",
                 "repo": "Rpollution",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             },
             {
               "node_type": "item",
@@ -514,7 +545,8 @@
                 "owner": "SebAire",
                 "repo": "Purple-Air-Data-Merger",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             },
             {
               "node_type": "item",
@@ -529,7 +561,8 @@
                 "owner": "USEPA",
                 "repo": "SENTINEL",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             },
             {
               "node_type": "item",
@@ -544,7 +577,8 @@
                 "owner": "quant-aq",
                 "repo": "r-quantaq",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             },
             {
               "node_type": "item",
@@ -559,7 +593,8 @@
                 "owner": "aq-sensors",
                 "repo": "airbeamR",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             },
             {
               "node_type": "item",
@@ -574,7 +609,8 @@
                 "owner": "gmiskell",
                 "repo": "sensortoolkit",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             }
           ]
         },
@@ -596,7 +632,8 @@
                 "owner": "igncp",
                 "repo": "openaq-client",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             }
           ]
         }
@@ -624,7 +661,8 @@
                 "owner": "Sensirion",
                 "repo": "embedded-sgp",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             },
             {
               "node_type": "item",
@@ -639,7 +677,8 @@
                 "owner": "Sensirion",
                 "repo": "embedded-sps",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             },
             {
               "node_type": "item",
@@ -654,7 +693,8 @@
                 "owner": "danielbernalb",
                 "repo": "LibreCO2",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             },
             {
               "node_type": "item",
@@ -669,7 +709,8 @@
                 "owner": "Sensirion",
                 "repo": "embedded-scd",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             }
           ]
         },
@@ -691,7 +732,8 @@
                 "owner": "fu-hsi",
                 "repo": "PMS",
                 "stars": 155
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             },
             {
               "node_type": "item",
@@ -706,7 +748,8 @@
                 "owner": "Sensirion",
                 "repo": "arduino-i2c-scd4x",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             },
             {
               "node_type": "item",
@@ -721,7 +764,8 @@
                 "owner": "paulvha",
                 "repo": "sps30",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             },
             {
               "node_type": "item",
@@ -736,7 +780,8 @@
                 "owner": "lewapek",
                 "repo": "sds-dust-sensors-arduino-library",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             },
             {
               "node_type": "item",
@@ -751,7 +796,8 @@
                 "owner": "Sensirion",
                 "repo": "embedded-uart-sps",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             }
           ]
         },
@@ -773,7 +819,8 @@
                 "owner": "pimoroni",
                 "repo": "bme680-python",
                 "stars": 287
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             },
             {
               "node_type": "item",
@@ -788,7 +835,8 @@
                 "owner": "USEPA",
                 "repo": "pyaqsapi",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             },
             {
               "node_type": "item",
@@ -803,7 +851,8 @@
                 "owner": "UnravelTEC",
                 "repo": "Raspi-Driver-SCD30",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             },
             {
               "node_type": "item",
@@ -818,7 +867,8 @@
                 "owner": "quant-aq",
                 "repo": "py-licor",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             }
           ]
         },
@@ -840,7 +890,8 @@
                 "owner": "Sensirion",
                 "repo": "sensirion-i2c-rs",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
             }
           ]
         }
@@ -849,7 +900,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:19:23.471Z",
+    "last_updated": "2026-08-28T06:56:56.373Z",
     "original_repository_info": {
       "archived": false,
       "id": 74869843,
