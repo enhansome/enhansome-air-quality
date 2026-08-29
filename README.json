@@ -15,12 +15,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "国家空气质量数据获取库,包含完整的API，不再信任地方检测站",
+                "homepage": null,
                 "id": 36636256,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2021-03-17T16:58:49Z",
+                "open_issues": 3,
                 "owner": "hzexe",
                 "repo": "openair",
-                "stars": 108
+                "stars": 108,
+                "topics": [
+                  "air",
+                  "air-quality",
+                  "aqi",
+                  "cnemc",
+                  "openair",
+                  "pm10",
+                  "pm25"
+                ]
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             }
@@ -38,12 +51,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Canadian National Air Pollution Surveillance Program (NAPS) data downloader, importer, extractor, analysis, and visualization toolbox.",
+                "homepage": "https://dbeaudoinfortin.github.io/NAPSDataAnalysis/",
                 "id": 792112148,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2025-04-09T01:07:58Z",
+                "open_issues": 23,
                 "owner": "dbeaudoinfortin",
                 "repo": "NAPSDataAnalysis",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "air-pollution",
+                  "air-quality",
+                  "air-quality-data",
+                  "aqhi",
+                  "aqhi-canada",
+                  "canada",
+                  "cesi",
+                  "data-analysis",
+                  "eccc",
+                  "geoscience",
+                  "heatmap",
+                  "naps",
+                  "pollution"
+                ]
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             }
@@ -61,12 +93,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A JS client for the OpenAQ API",
+                "homepage": "https://openaq.org",
                 "id": 79699328,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-03-14T07:36:21Z",
+                "open_issues": 1,
                 "owner": "nickolasclarke",
                 "repo": "openaq",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "air-quality",
+                  "es2015",
+                  "es6",
+                  "iot",
+                  "isomorphic",
+                  "node",
+                  "npm-module",
+                  "openaq",
+                  "sustainability"
+                ]
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             }
@@ -84,12 +131,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library to convert between AQI value and pollutant concentration (µg/m³ or ppm)",
+                "homepage": null,
                 "id": 23605929,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2021-11-30T08:34:11Z",
+                "open_issues": 28,
                 "owner": "hrbonz",
                 "repo": "python-aqi",
-                "stars": 66
+                "stars": 66,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             },
@@ -100,12 +152,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python wrapper for the Open AQ API",
+                "homepage": null,
                 "id": 48239010,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-03-13T12:24:56Z",
+                "open_issues": 19,
                 "owner": "dhhagan",
                 "repo": "py-openaq",
-                "stars": 65
+                "stars": 65,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             },
@@ -116,12 +173,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python library for the analysis and visualization of data from a Scanning Mobility Particle Sizer (SMPS) and other similar instruments (SEMS, OPC's).",
+                "homepage": "https://quant-aq.github.io/py-smps/",
                 "id": 82484532,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-10T21:37:05Z",
+                "open_issues": 10,
                 "owner": "quant-aq",
                 "repo": "py-smps",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "aerosol",
+                  "atmospheric-science",
+                  "chemistry",
+                  "mit",
+                  "science"
+                ]
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             },
@@ -132,12 +200,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Air Sensor Data Analysis Library",
+                "homepage": null,
                 "id": 462902934,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-12-11T15:03:20Z",
+                "open_issues": 5,
                 "owner": "USEPA",
                 "repo": "sensortoolkit",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "air-quality",
+                  "low-cost-sensors",
+                  "ord",
+                  "python",
+                  "research"
+                ]
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             },
@@ -148,12 +227,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official OpenAQ Python SDK",
+                "homepage": "https://python.openaq.org",
                 "id": 703241865,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-10T21:04:22Z",
+                "open_issues": 4,
                 "owner": "openaq",
                 "repo": "openaq-python",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "air-quality",
+                  "api",
+                  "openaq",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             },
@@ -164,12 +253,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "opcsim is a python package for simulating low-cost optical particle sensors",
+                "homepage": null,
                 "id": 72774719,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-12-24T00:56:20Z",
+                "open_issues": 8,
                 "owner": "dhhagan",
                 "repo": "opcsim",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             },
@@ -180,12 +274,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Download, standardise and store air quality data from worldwide monitoring networks.",
+                "homepage": "https://www.southlondonscientific.com/products/aeolus",
                 "id": 1119646395,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-11T17:59:20Z",
+                "open_issues": 2,
                 "owner": "southlondonscientific",
                 "repo": "aeolus",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "air-quality",
+                  "air-quality-data",
+                  "atmospheric-science",
+                  "aurn",
+                  "environmental-data",
+                  "monitoring",
+                  "open-data",
+                  "openaq",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             },
@@ -196,12 +305,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "visualization and analysis tools for air quality data in python",
+                "homepage": "https://dhhagan.github.io/atmospy/",
                 "id": 16462972,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-18T17:20:00Z",
+                "open_issues": 9,
                 "owner": "dhhagan",
                 "repo": "atmospy",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             },
@@ -212,12 +326,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌬 An easy downloader for the AirBase air quality data.",
+                "homepage": "https://airbase.readthedocs.io",
                 "id": 157773686,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-10-14T12:47:33Z",
+                "open_issues": 6,
                 "owner": "JohnPaton",
                 "repo": "airbase",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "air-quality",
+                  "airbase",
+                  "data",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             },
@@ -228,12 +352,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A python wrapper for the QuantAQ RESTful API",
+                "homepage": null,
                 "id": 173780695,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-24T18:40:50Z",
+                "open_issues": 3,
                 "owner": "quant-aq",
                 "repo": "py-quantaq",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             },
@@ -244,12 +373,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The QuantAQ CLI",
+                "homepage": null,
                 "id": 269229902,
                 "language": "Python",
-                "last_commit": "2026-08-27T16:06:54Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T19:45:16Z",
+                "open_issues": 2,
                 "owner": "quant-aq",
                 "repo": "cli",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             },
@@ -260,12 +394,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Provides tools for visually evaluating low-cost air quality sensors",
+                "homepage": null,
                 "id": 485404967,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-04-27T07:21:39Z",
+                "open_issues": 0,
                 "owner": "wacl-york",
                 "repo": "quant-air-pollution-measurement-errors",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             },
@@ -276,12 +415,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Analysis suite to translate local air quality data into actionable insights",
+                "homepage": null,
                 "id": 1219229692,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T21:48:03Z",
+                "open_issues": 1,
                 "owner": "edf-org",
                 "repo": "airinsights",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             }
@@ -299,12 +443,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for U.S. EPA’s Community Multiscale Air Quality Model (CMAQ) for estimating ozone, particulates, toxics, and deposition of acids and nutrients at neighborhood to global scales.",
+                "homepage": "https://epa.gov/CMAQ",
                 "id": 67511274,
                 "language": "Fortran",
+                "license": "MIT",
                 "last_commit": "2026-07-09T14:55:57Z",
+                "open_issues": 7,
                 "owner": "USEPA",
                 "repo": "CMAQ",
-                "stars": 363
+                "stars": 363,
+                "topics": [
+                  "ord",
+                  "research"
+                ]
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             },
@@ -315,12 +467,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🧭 Open source tools for air quality data analysis",
+                "homepage": "https://openair-project.github.io/openair/",
                 "id": 29305085,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T10:10:17Z",
+                "open_issues": 29,
                 "owner": "openair-project",
                 "repo": "openair",
-                "stars": 362
+                "stars": 362,
+                "topics": [
+                  "air-quality",
+                  "air-quality-data",
+                  "meteorology",
+                  "openair",
+                  "package",
+                  "r"
+                ]
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             },
@@ -331,12 +495,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tools to Conduct Meteorological Normalisation on Air Quality Data",
+                "homepage": null,
                 "id": 125824521,
                 "language": "R",
+                "license": "GPL-3.0",
                 "last_commit": "2025-12-03T14:49:27Z",
+                "open_issues": 0,
                 "owner": "skgrange",
                 "repo": "rmweather",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             },
@@ -347,12 +516,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Utilities for working with data from PurpleAir sensors",
+                "homepage": "https://mazamascience.github.io/AirSensor/",
                 "id": 166464800,
                 "language": "R",
+                "license": "GPL-3.0",
                 "last_commit": "2023-04-26T18:42:59Z",
+                "open_issues": 8,
                 "owner": "MazamaScience",
                 "repo": "AirSensor",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             },
@@ -363,12 +537,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Making air quality data and related resources openly available and accessible to all in biteSized chunks",
+                "homepage": null,
                 "id": 813352266,
                 "language": "R",
+                "license": "CC-BY-4.0",
                 "last_commit": "2026-08-24T21:23:32Z",
+                "open_issues": 0,
                 "owner": "AarshBatra",
                 "repo": "biteSizedAQ",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             },
@@ -379,12 +558,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🗺️ Open source tools to create maps of air pollution data",
+                "homepage": "https://openair-project.github.io/openairmaps/",
                 "id": 73397348,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-05T07:52:56Z",
+                "open_issues": 5,
                 "owner": "openair-project",
                 "repo": "openairmaps",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "openair",
+                  "package",
+                  "r"
+                ]
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             },
@@ -395,12 +583,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the qualR package, it will help you bring São Paulo and Rio de Janeiro air quality data to your R session :brazil:.",
+                "homepage": "https://docs.ropensci.org/qualR/",
                 "id": 267442363,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-24T06:07:29Z",
+                "open_issues": 9,
                 "owner": "ropensci",
                 "repo": "qualR",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "air-pollutants",
+                  "air-quality-data",
+                  "air-quality-measurements",
+                  "brazil",
+                  "cetesb",
+                  "r",
+                  "r-package",
+                  "rio-de-janeiro",
+                  "rstats",
+                  "sao-paulo",
+                  "weather-data"
+                ]
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             },
@@ -411,12 +616,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code base for the U.S. EPA’s Atmospheric Model Evaluation Tool (AMET)",
+                "homepage": "https://www.epa.gov/CMAQ/atmospheric-model-evaluation-tool",
                 "id": 88089800,
                 "language": "R",
+                "license": null,
                 "last_commit": "2026-08-07T15:27:48Z",
+                "open_issues": 2,
                 "owner": "USEPA",
                 "repo": "AMET",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "ord",
+                  "research"
+                ]
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             },
@@ -427,12 +640,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A R extension to retrieve EPA Air Quality System Data via the AQS Data Mart API",
+                "homepage": "https://cran.r-project.org/package=RAQSAPI",
                 "id": 339523973,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-23T18:47:21Z",
+                "open_issues": 4,
                 "owner": "USEPA",
                 "repo": "RAQSAPI",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "airmonitoring",
+                  "aqs",
+                  "datamart",
+                  "environmental-data-retrieval",
+                  "environmental-monitoring",
+                  "r03",
+                  "rpackage",
+                  "rprogramming",
+                  "usepa"
+                ]
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             },
@@ -443,12 +671,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Import Air Quality Monitoring Data in a Fast and Easy Way",
+                "homepage": null,
                 "id": 174349996,
                 "language": "R",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-03T07:45:47Z",
+                "open_issues": 2,
                 "owner": "skgrange",
                 "repo": "saqgetr",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             },
@@ -459,12 +692,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Utilities for working with air quality monitoring data",
+                "homepage": "https://MazamaScience.github.io/AirMonitor",
                 "id": 414793919,
                 "language": "HTML",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-03T17:32:41Z",
+                "open_issues": 1,
                 "owner": "MazamaScience",
                 "repo": "AirMonitor",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             },
@@ -475,12 +713,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool to understand air sensor performance compared to nearby air monitors and to understand local air quality.",
+                "homepage": null,
                 "id": 946687416,
                 "language": "R",
+                "license": "MIT",
                 "last_commit": "2025-12-18T19:11:37Z",
+                "open_issues": 0,
                 "owner": "USEPA",
                 "repo": "Air-Sensor-Network-Analysis-Tool-Public-",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             },
@@ -491,12 +734,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BEETHOVEN is: Building an Extensible, rEproducible, Test-driven, Harmonized, Open-source, Versioned, ENsemble model for air quality ",
+                "homepage": "https://niehs.github.io/beethoven/",
                 "id": 666215399,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-17T13:22:36Z",
+                "open_issues": 11,
                 "owner": "NIEHS",
                 "repo": "beethoven",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             },
@@ -507,12 +755,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Provides tools for visually evaluating low-cost air quality sensors",
+                "homepage": null,
                 "id": 485404967,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-04-27T07:21:39Z",
+                "open_issues": 0,
                 "owner": "wacl-york",
                 "repo": "quant-air-pollution-measurement-errors",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             },
@@ -523,12 +776,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "R functions to work with air pollution data",
+                "homepage": null,
                 "id": 120368325,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2021-04-15T01:32:12Z",
+                "open_issues": 2,
                 "owner": "openvironment",
                 "repo": "Rpollution",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             },
@@ -539,12 +797,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Merges Purple Air SD Card Data into one file for comparison to FEM Instruments ",
+                "homepage": null,
                 "id": 578635775,
                 "language": "R",
+                "license": "GPL-3.0",
                 "last_commit": "2026-03-23T15:25:30Z",
+                "open_issues": 0,
                 "owner": "SebAire",
                 "repo": "Purple-Air-Data-Merger",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             },
@@ -555,12 +818,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 561070374,
                 "language": "R",
+                "license": "MIT",
                 "last_commit": "2025-05-02T17:58:29Z",
+                "open_issues": 0,
                 "owner": "USEPA",
                 "repo": "SENTINEL",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             },
@@ -571,12 +839,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official R wrapper for the QuantAQ API",
+                "homepage": null,
                 "id": 187944777,
                 "language": "R",
+                "license": "Apache-2.0",
                 "last_commit": "2023-12-13T18:41:59Z",
+                "open_issues": 0,
                 "owner": "quant-aq",
                 "repo": "r-quantaq",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             },
@@ -587,12 +860,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 502712145,
                 "language": "R",
+                "license": null,
                 "last_commit": "2022-08-16T20:52:21Z",
+                "open_issues": 0,
                 "owner": "aq-sensors",
                 "repo": "airbeamR",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             },
@@ -603,12 +881,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of R scripts for managing an air quality sensor network",
+                "homepage": null,
                 "id": 125298027,
                 "language": "R",
+                "license": "GPL-3.0",
                 "last_commit": "2018-09-05T03:20:31Z",
+                "open_issues": 0,
                 "owner": "gmiskell",
                 "repo": "sensortoolkit",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             }
@@ -626,12 +909,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unofficial Open Air Quality API Client written in Rust",
+                "homepage": "https://igncp.github.io/openaq-client",
                 "id": 91234019,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2017-05-21T12:41:35Z",
+                "open_issues": 0,
                 "owner": "igncp",
                 "repo": "openaq-client",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             }
@@ -655,12 +943,34 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Embedded SGP Drivers for Sensirion Gas Sensors - Download the Zip Package from the Release Page",
+                "homepage": "https://github.com/Sensirion/embedded-sgp/releases",
                 "id": 115523915,
                 "language": "C",
+                "license": "BSD-3-Clause",
                 "last_commit": "2021-10-27T08:14:57Z",
+                "open_issues": 0,
                 "owner": "Sensirion",
                 "repo": "embedded-sgp",
-                "stars": 64
+                "stars": 64,
+                "topics": [
+                  "arduino",
+                  "co2",
+                  "driver",
+                  "embedded",
+                  "i2c",
+                  "raspberry-pi",
+                  "raspberrypi",
+                  "sensirion",
+                  "sensirion-embedded-driver",
+                  "sensor",
+                  "sgp30",
+                  "sgp40",
+                  "sgp4x",
+                  "sgpc3",
+                  "svm30",
+                  "tvoc"
+                ]
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             },
@@ -671,12 +981,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Embedded i2c Driver for Sensirion Particulate Matter Sensors - Download the Zip Package from the Release Page",
+                "homepage": "https://github.com/Sensirion/embedded-sps/releases",
                 "id": 155872424,
                 "language": "C",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-08-25T11:30:25Z",
+                "open_issues": 0,
                 "owner": "Sensirion",
                 "repo": "embedded-sps",
-                "stars": 51
+                "stars": 51,
+                "topics": [
+                  "driver",
+                  "embedded",
+                  "i2c",
+                  "particulate-matter",
+                  "particulates-sensors",
+                  "sensirion",
+                  "sensirion-embedded-drivers",
+                  "sensor",
+                  "sps30"
+                ]
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             },
@@ -687,12 +1012,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple CO2 meter using Arduino UNO-Mega board and popular CO2 sensors (SenseAir S8, Sensirion SCD30, Winsen MH-Z14 or 19 and Cubic CM1106). Operation modes: Normal, Calibration 400ppm, Alarm adjust and Altitud compensation adjust",
+                "homepage": null,
                 "id": 336958000,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2024-02-16T02:25:01Z",
+                "open_issues": 0,
                 "owner": "danielbernalb",
                 "repo": "LibreCO2",
-                "stars": 51
+                "stars": 51,
+                "topics": [
+                  "arduino-mega",
+                  "arduino-nano",
+                  "arduino-uno",
+                  "co2",
+                  "co2-measurements",
+                  "co2-meter",
+                  "co2-monitor",
+                  "co2-sensor",
+                  "cubic",
+                  "senseair",
+                  "senseair-s8",
+                  "sensirion-scd30",
+                  "winsen",
+                  "xloader"
+                ]
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             },
@@ -703,12 +1048,30 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Embedded SCD Drivers for Sensirion CO2 Sensors - Download the Zip Package from the Release Page",
+                "homepage": "https://github.com/Sensirion/embedded-scd/releases",
                 "id": 139862667,
                 "language": "C",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-04-19T13:53:36Z",
+                "open_issues": 0,
                 "owner": "Sensirion",
                 "repo": "embedded-scd",
-                "stars": 47
+                "stars": 47,
+                "topics": [
+                  "co2",
+                  "co2-sensor",
+                  "driver",
+                  "embedded",
+                  "i2c",
+                  "raspberry",
+                  "raspberry-pi",
+                  "raspberrypi",
+                  "scd30",
+                  "sensirion",
+                  "sensirion-embedded-drivers",
+                  "sensor"
+                ]
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             }
@@ -726,12 +1089,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Arduino library for Plantower PMS x003 family sensors.",
+                "homepage": null,
                 "id": 105654046,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2022-03-13T15:37:52Z",
+                "open_issues": 8,
                 "owner": "fu-hsi",
                 "repo": "PMS",
-                "stars": 155
+                "stars": 155,
+                "topics": [
+                  "air-quality",
+                  "dust",
+                  "pm10",
+                  "pms5003",
+                  "pms7003"
+                ]
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             },
@@ -742,12 +1116,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Arduino library for Sensirion SCD4x sensors",
+                "homepage": null,
                 "id": 331631941,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-07-16T11:05:17Z",
+                "open_issues": 2,
                 "owner": "Sensirion",
                 "repo": "arduino-i2c-scd4x",
-                "stars": 83
+                "stars": 83,
+                "topics": [
+                  "arduino",
+                  "arduino-library",
+                  "driver",
+                  "scd40",
+                  "scd41",
+                  "scd4x",
+                  "sensirion"
+                ]
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             },
@@ -758,12 +1145,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sensirion SPS30 driver for ESP32,  MEGA2560, UNO,UNO-R4 ESP8266, Particle-photon, UNOR4, UNOQ  on UART OR I2C coummunication",
+                "homepage": null,
                 "id": 167833912,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-04-18T14:10:40Z",
+                "open_issues": 2,
                 "owner": "paulvha",
                 "repo": "sps30",
-                "stars": 69
+                "stars": 69,
+                "topics": [
+                  "arduino-uno",
+                  "bme280",
+                  "ds18x20",
+                  "esp32",
+                  "esp8266",
+                  "mega2560",
+                  "particle-photon",
+                  "sensirion",
+                  "sensor",
+                  "sps30",
+                  "uno",
+                  "uno-q",
+                  "uno-r4-wifi",
+                  "unoq"
+                ]
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             },
@@ -774,12 +1181,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Library for Nova Fitness SDS dust sensors family (SDS011, SDS021)",
+                "homepage": null,
                 "id": 131445447,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2022-02-16T11:04:00Z",
+                "open_issues": 5,
                 "owner": "lewapek",
                 "repo": "sds-dust-sensors-arduino-library",
-                "stars": 68
+                "stars": 68,
+                "topics": [
+                  "arduino",
+                  "dust-sensor",
+                  "esp8266",
+                  "nodemcu",
+                  "nodemcu-arduino",
+                  "pm10",
+                  "pm25",
+                  "sds",
+                  "sds011",
+                  "sds021",
+                  "sensor"
+                ]
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             },
@@ -790,12 +1214,29 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Embedded UART Driver for Sensirion Particulate Matter Sensors - Download the Zip Package from the Release Page",
+                "homepage": "https://github.com/Sensirion/embedded-uart-sps/releases",
                 "id": 146561665,
                 "language": "C",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-08-25T11:30:13Z",
+                "open_issues": 0,
                 "owner": "Sensirion",
                 "repo": "embedded-uart-sps",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "driver",
+                  "embedded",
+                  "particulates-sensors",
+                  "pm25",
+                  "sen44",
+                  "sensirion",
+                  "sensirion-embedded-drivers",
+                  "sensor",
+                  "shdlc",
+                  "sps30",
+                  "uart"
+                ]
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             }
@@ -813,12 +1254,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python library for the BME680 gas, temperature, humidity and pressure sensor.",
+                "homepage": "https://shop.pimoroni.com/products/bme680",
                 "id": 107002529,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-26T20:48:47Z",
+                "open_issues": 10,
                 "owner": "pimoroni",
                 "repo": "bme680-python",
-                "stars": 287
+                "stars": 287,
+                "topics": [
+                  "air-quality",
+                  "pypi-package",
+                  "python",
+                  "python-library",
+                  "raspberry-pi",
+                  "sensor"
+                ]
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             },
@@ -829,12 +1282,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " A python 3 package to retrieve ambient air monitoring data from the United States Environmental Protection Agency’s (US EPA) Air Quality System (AQS) Data Mart API v2 interface",
+                "homepage": "https://usepa.github.io/pyaqsapi/",
                 "id": 573452982,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-26T15:10:34Z",
+                "open_issues": 3,
                 "owner": "USEPA",
                 "repo": "pyaqsapi",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "airmonitoring",
+                  "aqs",
+                  "datamart",
+                  "environmental-data-retrieval",
+                  "environmental-monitoring",
+                  "python-package",
+                  "r03",
+                  "usepa"
+                ]
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             },
@@ -845,12 +1312,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Software to read out Sensirion SCD30 CO₂ Sensor values over I2C on Raspberry Pi",
+                "homepage": null,
                 "id": 157185196,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2020-10-29T15:20:42Z",
+                "open_issues": 1,
                 "owner": "UnravelTEC",
                 "repo": "Raspi-Driver-SCD30",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "i2c",
+                  "pigpiod",
+                  "python",
+                  "raspberry-pi",
+                  "raspberrypi"
+                ]
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             },
@@ -861,12 +1339,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python logging software for the Licor 840 CO2/H2O analyzer",
+                "homepage": null,
                 "id": 219772057,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-11-06T02:23:10Z",
+                "open_issues": 1,
                 "owner": "quant-aq",
                 "repo": "py-licor",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             }
@@ -884,12 +1367,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust library with common functionality for our I2C sensors",
+                "homepage": null,
                 "id": 285830281,
                 "language": "Rust",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-07-17T14:37:30Z",
+                "open_issues": 0,
                 "owner": "Sensirion",
                 "repo": "sensirion-i2c-rs",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "i2c",
+                  "rust",
+                  "sensirion"
+                ]
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             }
@@ -900,15 +1392,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:56:56.373Z",
+    "last_updated": "2026-08-29T04:11:44.290Z",
     "original_repository_info": {
       "archived": false,
+      "description": "An awesome list of air quality resources.",
+      "homepage": null,
       "id": 74869843,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-06-24T16:46:25Z",
+      "open_issues": 0,
       "owner": "openaq",
       "repo": "awesome-air-quality",
-      "stars": 70
+      "stars": 70,
+      "topics": [
+        "air-quality",
+        "aqi",
+        "awesome-list",
+        "code4cleanair"
+      ]
     },
     "original_repository_sha": "4624d3dd9b577a63c8c75bf87588f1697f7cba51",
     "enhanced_repository": "enhansome/enhansome-air-quality",
