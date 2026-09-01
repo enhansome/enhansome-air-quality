@@ -476,7 +476,7 @@
                 "open_issues": 29,
                 "owner": "openair-project",
                 "repo": "openair",
-                "stars": 362,
+                "stars": 363,
                 "topics": [
                   "air-quality",
                   "air-quality-data",
@@ -542,7 +542,7 @@
                 "id": 813352266,
                 "language": "R",
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-08-24T21:23:32Z",
+                "last_commit": "2026-09-01T01:42:57Z",
                 "open_issues": 0,
                 "owner": "AarshBatra",
                 "repo": "biteSizedAQ",
@@ -645,7 +645,7 @@
                 "id": 339523973,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-07-23T18:47:21Z",
+                "last_commit": "2026-08-31T14:38:12Z",
                 "open_issues": 4,
                 "owner": "USEPA",
                 "repo": "RAQSAPI",
@@ -1287,8 +1287,8 @@
                 "id": 573452982,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-26T15:10:34Z",
-                "open_issues": 3,
+                "last_commit": "2026-08-31T16:25:10Z",
+                "open_issues": 7,
                 "owner": "USEPA",
                 "repo": "pyaqsapi",
                 "stars": 29,
@@ -1392,7 +1392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T01:23:12.797Z",
+    "last_updated": "2026-09-01T01:50:22.197Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of air quality resources.",
