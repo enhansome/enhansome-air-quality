@@ -232,8 +232,8 @@
                 "id": 703241865,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-10T21:04:22Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-02T21:12:17Z",
+                "open_issues": 3,
                 "owner": "openaq",
                 "repo": "openaq-python",
                 "stars": 22,
@@ -542,7 +542,7 @@
                 "id": 813352266,
                 "language": "R",
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-09-01T05:51:55Z",
+                "last_commit": "2026-09-02T09:07:57Z",
                 "open_issues": 0,
                 "owner": "AarshBatra",
                 "repo": "biteSizedAQ",
@@ -1392,7 +1392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T01:02:56.124Z",
+    "last_updated": "2026-09-03T01:08:08.441Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of air quality resources.",
