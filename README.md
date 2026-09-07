@@ -38,7 +38,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
   * [rmweather](https://github.com/skgrange/rmweather) ⭐ 56 | 🐛 0 | 🌐 R | 📅 2025-12-03 - Tools to Conduct Meteorological Normalisation on Air Quality Data.
   * [AirSensor](https://github.com/MazamaScience/AirSensor) ⭐ 40 | 🐛 8 | 🌐 R | 📅 2023-04-26  - *Utilities for working with data from PurpleAir sensors*[CRAN](https://cran.r-project.org/web/packages/AirSensor/index.html)
   * [biteSizedAQ](https://github.com/AarshBatra/biteSizedAQ/) ⭐ 31 | 🐛 0 | 🌐 R | 📅 2026-09-02 - *A collection of bite sized projects aimed at democratizing access to air quality data, pipelines and insights in a manner that is free, open, accessible and easy to understand. Air pollution can feel like a giant overwhelming issue and it is, but by consistently taking bite-sized smart steps, we can collectively make significant progress in tackling it!*
-  * [openairmaps](https://github.com/davidcarslaw/openairmaps) ⭐ 27 | 🐛 5 | 🌐 R | 📅 2026-08-05 - *mapping functions to support openair* [CRAN](https://cran.r-project.org/web/packages/openairmaps/index.html)
+  * [openairmaps](https://github.com/davidcarslaw/openairmaps) ⭐ 27 | 🐛 6 | 🌐 R | 📅 2026-08-05 - *mapping functions to support openair* [CRAN](https://cran.r-project.org/web/packages/openairmaps/index.html)
   * [qualR](https://github.com/ropensci/qualR) ⭐ 27 | 🐛 9 | 🌐 R | 📅 2026-05-24 - This is the qualR package, it will help you bring São Paulo and Rio de Janeiro air quality data to your R session 🇧🇷.
   * [AMET](https://github.com/USEPA/AMET) ⭐ 26 | 🐛 2 | 🌐 R | 📅 2026-09-03 - Code base for the U.S. EPA’s Atmospheric Model Evaluation Tool (AMET).
   * [RAQSAPI](https://github.com/USEPA/RAQSAPI) ⭐ 26 | 🐛 4 | 🌐 R | 📅 2026-08-31 - A R extension to Retrieve EPA Air Quality System Data via the AQS Data Mart API.
@@ -85,4 +85,4 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
