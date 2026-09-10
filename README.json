@@ -314,7 +314,7 @@
                 "open_issues": 9,
                 "owner": "dhhagan",
                 "repo": "atmospy",
-                "stars": 15,
+                "stars": 16,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
@@ -420,7 +420,7 @@
                 "id": 1219229692,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-27T21:48:03Z",
+                "last_commit": "2026-09-09T16:36:18Z",
                 "open_issues": 1,
                 "owner": "edf-org",
                 "repo": "airinsights",
@@ -645,7 +645,7 @@
                 "id": 339523973,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-31T14:38:12Z",
+                "last_commit": "2026-09-09T20:42:57Z",
                 "open_issues": 4,
                 "owner": "USEPA",
                 "repo": "RAQSAPI",
@@ -852,6 +852,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
+            },
+            {
+              "node_type": "item",
+              "title": "API Data Retrieval Analysis",
+              "description": "An R-base web application for exploring real-time and historical air quality data from the global OpenAQ sensor network, with integrated atmospheric data analysis powered by the openair R package.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An R-base web application for exploring real-time and historical air quality data from the global OpenAQ sensor network, with integrated atmospheric data analysis powered by the openair R package.",
+                "homepage": null,
+                "id": 1263301400,
+                "language": "R",
+                "license": "MIT",
+                "last_commit": "2026-06-08T20:45:20Z",
+                "open_issues": 0,
+                "owner": "CosmosWems",
+                "repo": "API-Data-Retrieval-Analysis",
+                "stars": 3,
+                "topics": []
+              },
+              "first_seen": "2026-09-10T01:06:36.553Z"
             },
             {
               "node_type": "item",
@@ -1392,7 +1413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T01:16:06.415Z",
+    "last_updated": "2026-09-10T01:06:36.553Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of air quality resources.",
@@ -1400,7 +1421,7 @@
       "id": 74869843,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-06-24T16:46:25Z",
+      "last_commit": "2026-09-09T16:33:01Z",
       "open_issues": 0,
       "owner": "openaq",
       "repo": "awesome-air-quality",
@@ -1412,7 +1433,7 @@
         "code4cleanair"
       ]
     },
-    "original_repository_sha": "4624d3dd9b577a63c8c75bf87588f1697f7cba51",
+    "original_repository_sha": "a52de7bbd6d1ed7b017149082601a34360b56d9f",
     "enhanced_repository": "enhansome/enhansome-air-quality",
     "enhanced_repository_description": null,
     "title": "Awesome air quality with stars"
