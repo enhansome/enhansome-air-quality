@@ -236,7 +236,7 @@
                 "open_issues": 3,
                 "owner": "openaq",
                 "repo": "openaq-python",
-                "stars": 22,
+                "stars": 23,
                 "topics": [
                   "air-quality",
                   "api",
@@ -449,7 +449,7 @@
                 "language": "Fortran",
                 "license": "MIT",
                 "last_commit": "2026-07-09T14:55:57Z",
-                "open_issues": 7,
+                "open_issues": 6,
                 "owner": "USEPA",
                 "repo": "CMAQ",
                 "stars": 365,
@@ -1413,7 +1413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T01:09:44.509Z",
+    "last_updated": "2026-09-15T01:31:04.263Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of air quality resources.",
