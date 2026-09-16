@@ -232,8 +232,8 @@
                 "id": 703241865,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T19:18:32Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-15T23:19:19Z",
+                "open_issues": 4,
                 "owner": "openaq",
                 "repo": "openaq-python",
                 "stars": 23,
@@ -452,7 +452,7 @@
                 "open_issues": 6,
                 "owner": "USEPA",
                 "repo": "CMAQ",
-                "stars": 365,
+                "stars": 366,
                 "topics": [
                   "ord",
                   "research"
@@ -1284,7 +1284,7 @@
                 "open_issues": 10,
                 "owner": "pimoroni",
                 "repo": "bme680-python",
-                "stars": 287,
+                "stars": 286,
                 "topics": [
                   "air-quality",
                   "pypi-package",
@@ -1413,7 +1413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T01:31:04.263Z",
+    "last_updated": "2026-09-16T01:27:54.759Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of air quality resources.",

@@ -22,7 +22,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
   * [py-openaq](https://github.com/dhhagan/py-openaq) ⭐ 65 | 🐛 19 | 🌐 Python | 📅 2025-03-13 - *python wrapper for the OpenAQ API*
   * [py-smps](https://github.com/quant-aq/py-smps) ⭐ 41 | 🐛 10 | 🌐 Python | 📅 2026-07-10 - *Python library for the analysis and visualization of data from a Scanning Mobility Particle Sizer (SMPS) and other similar instruments (SEMS, OPC's).*
   * [sensortoolkit](https://github.com/USEPA/sensortoolkit) ⭐ 31 | 🐛 5 | 🌐 Python | 📅 2024-12-11 - *Air Sensor Data Analysis Library*
-  * [openaq-python](https://github.com/openaq/openaq-python) ⭐ 23 | 🐛 3 | 🌐 Python | 📅 2026-09-03 - Official OpenAQ Python SDK for working with the OpenAQ API.
+  * [openaq-python](https://github.com/openaq/openaq-python) ⭐ 23 | 🐛 4 | 🌐 Python | 📅 2026-09-15 - Official OpenAQ Python SDK for working with the OpenAQ API.
   * [py-opcsim](https://github.com/dhhagan/opcsim) ⭐ 19 | 🐛 8 | 🌐 Python | 📅 2024-12-24 - *Python library to simulate OPCs and Nephlometers under different conditions*
   * [aeolus](https://github.com/southlondonscientific/aeolus) ⭐ 17 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-06-11 - *Download and analyse air quality data from 14 monitoring networks with a unified schema. Includes trend analysis and AQI calculations.* [PyPI](https://pypi.org/project/aeolus-aq/)
   * [atmospy](https://github.com/quant-aq/atmospy) ⭐ 16 | 🐛 9 | 🌐 Python | 📅 2026-08-18  - *visualization and analysis tools for air quality data in python*
@@ -33,7 +33,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
   * [airinsights](https://github.com/edf-org/airinsights) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-09-09 - Analysis suite to translate local air quality data into actionable insights.
 
 * R
-  * [CMAQ](https://github.com/USEPA/CMAQ) ⭐ 365 | 🐛 6 | 🌐 Fortran | 📅 2026-07-09 - Code for U.S. EPA’s Community Multiscale Air Quality Model (CMAQ) which helps in conducting air quality model simulations.
+  * [CMAQ](https://github.com/USEPA/CMAQ) ⭐ 366 | 🐛 6 | 🌐 Fortran | 📅 2026-07-09 - Code for U.S. EPA’s Community Multiscale Air Quality Model (CMAQ) which helps in conducting air quality model simulations.
   * [openair](https://github.com/davidcarslaw/openair) ⭐ 364 | 🐛 30 | 🌐 R | 📅 2026-09-07 - *Tools to analyse, interpret and understand air pollution data. Data are typically hourly time series and both monitoring data and dispersion model output can be analysed. Many functions can also be applied to other data, including meteorological and traffic data.* [CRAN](https://cran.r-project.org/web/packages/openair/index.html)
   * [rmweather](https://github.com/skgrange/rmweather) ⭐ 56 | 🐛 0 | 🌐 R | 📅 2025-12-03 - Tools to Conduct Meteorological Normalisation on Air Quality Data.
   * [AirSensor](https://github.com/MazamaScience/AirSensor) ⭐ 40 | 🐛 8 | 🌐 R | 📅 2023-04-26  - *Utilities for working with data from PurpleAir sensors*[CRAN](https://cran.r-project.org/web/packages/AirSensor/index.html)
@@ -75,7 +75,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
   * [Embedded UART Driver for Sensirion Particulate Matter Sensors](https://github.com/Sensirion/embedded-uart-sps) ⚠️ Archived
 
 * Python
-  * [bme680-python](https://github.com/pimoroni/bme680-python) ⭐ 287 | 🐛 10 | 🌐 Python | 📅 2026-08-26 - *Python library for the BME680 gas, temperature, humidity and pressure sensor.*
+  * [bme680-python](https://github.com/pimoroni/bme680-python) ⭐ 286 | 🐛 10 | 🌐 Python | 📅 2026-08-26 - *Python library for the BME680 gas, temperature, humidity and pressure sensor.*
   * [pyaqsapi](https://github.com/USEPA/pyaqsapi) ⭐ 29 | 🐛 7 | 🌐 Python | 📅 2026-08-31 - A python 3 package to retrieve ambient air monitoring data from the United States Environmental Protection Agency’s (US EPA) Air Quality System (AQS) Data Mart API v2 interface
   * [Software to read out Sensirion SCD30 CO₂ Sensor values over I2C on Raspberry Pi](https://github.com/UnravelTEC/Raspi-Driver-SCD30) ⭐ 25 | 🐛 1 | 🌐 Python | 📅 2020-10-29
   * [py-licor](https://github.com/quant-aq/py-licor) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2019-11-06 - *Python logging software for the Licor 840 CO2/H2O analyzer*
@@ -86,4 +86,4 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
