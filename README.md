@@ -22,13 +22,13 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
   * [py-openaq](https://github.com/dhhagan/py-openaq) ⭐ 65 | 🐛 19 | 🌐 Python | 📅 2025-03-13 - *python wrapper for the OpenAQ API*
   * [py-smps](https://github.com/quant-aq/py-smps) ⭐ 41 | 🐛 10 | 🌐 Python | 📅 2026-07-10 - *Python library for the analysis and visualization of data from a Scanning Mobility Particle Sizer (SMPS) and other similar instruments (SEMS, OPC's).*
   * [sensortoolkit](https://github.com/USEPA/sensortoolkit) ⭐ 31 | 🐛 5 | 🌐 Python | 📅 2024-12-11 - *Air Sensor Data Analysis Library*
-  * [openaq-python](https://github.com/openaq/openaq-python) ⭐ 23 | 🐛 4 | 🌐 Python | 📅 2026-09-15 - Official OpenAQ Python SDK for working with the OpenAQ API.
+  * [openaq-python](https://github.com/openaq/openaq-python) ⭐ 23 | 🐛 3 | 🌐 Python | 📅 2026-09-16 - Official OpenAQ Python SDK for working with the OpenAQ API.
   * [py-opcsim](https://github.com/dhhagan/opcsim) ⭐ 19 | 🐛 8 | 🌐 Python | 📅 2024-12-24 - *Python library to simulate OPCs and Nephlometers under different conditions*
   * [aeolus](https://github.com/southlondonscientific/aeolus) ⭐ 17 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-06-11 - *Download and analyse air quality data from 14 monitoring networks with a unified schema. Includes trend analysis and AQI calculations.* [PyPI](https://pypi.org/project/aeolus-aq/)
   * [atmospy](https://github.com/quant-aq/atmospy) ⭐ 16 | 🐛 9 | 🌐 Python | 📅 2026-08-18  - *visualization and analysis tools for air quality data in python*
   * [airbase](https://github.com/JohnPaton/airbase) ⭐ 11 | 🐛 6 | 🌐 Python | 📅 2025-10-14 - An easy downloader for the AirBase air quality data.
   * [py-quantaq](https://github.com/quant-aq/py-quantaq) ⭐ 11 | 🐛 3 | 🌐 Python | 📅 2025-12-24 - *A python wrapper for the QuantAQ RESTful API*
-  * [The QuantAQ CLI](https://github.com/quant-aq/cli) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2026-08-28 - *QuantAQ command line interface*
+  * [The QuantAQ CLI](https://github.com/quant-aq/cli) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2026-09-16 - *QuantAQ command line interface*
   * [quantpy](https://github.com/wacl-york/quant-air-pollution-measurement-errors) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2023-04-27 - *Provides tools for visually evaluating low-cost air quality sensors*
   * [airinsights](https://github.com/edf-org/airinsights) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-09-09 - Analysis suite to translate local air quality data into actionable insights.
 
@@ -86,4 +86,4 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
