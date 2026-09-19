@@ -41,7 +41,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
   * [openairmaps](https://github.com/davidcarslaw/openairmaps) ⭐ 27 | 🐛 6 | 🌐 R | 📅 2026-08-05 - *mapping functions to support openair* [CRAN](https://cran.r-project.org/web/packages/openairmaps/index.html)
   * [qualR](https://github.com/ropensci/qualR) ⭐ 27 | 🐛 9 | 🌐 R | 📅 2026-05-24 - This is the qualR package, it will help you bring São Paulo and Rio de Janeiro air quality data to your R session 🇧🇷.
   * [AMET](https://github.com/USEPA/AMET) ⭐ 26 | 🐛 2 | 🌐 R | 📅 2026-09-03 - Code base for the U.S. EPA’s Atmospheric Model Evaluation Tool (AMET).
-  * [RAQSAPI](https://github.com/USEPA/RAQSAPI) ⭐ 26 | 🐛 4 | 🌐 R | 📅 2026-09-17 - A R extension to Retrieve EPA Air Quality System Data via the AQS Data Mart API.
+  * [RAQSAPI](https://github.com/USEPA/RAQSAPI) ⭐ 26 | 🐛 4 | 🌐 R | 📅 2026-09-18 - A R extension to Retrieve EPA Air Quality System Data via the AQS Data Mart API.
   * [saqgetr](https://github.com/skgrange/saqgetr) ⭐ 11 | 🐛 2 | 🌐 R | 📅 2026-07-03 - Import Air Quality Monitoring Data in a Fast and Easy Way
   * [AirMonitor](https://github.com/MazamaScience/AirMonitor) ⭐ 10 | 🐛 1 | 🌐 HTML | 📅 2026-08-03 - *Utilities for working with air quality monitoring data* [CRAN](https://cran.r-project.org/web/packages/AirMonitor/index.html)
   * [Air Sensor Network Analysis Tool](https://github.com/USEPA/Air-Sensor-Network-Analysis-Tool-Public-) ⭐ 8 | 🐛 0 | 🌐 R | 📅 2025-12-18 - A tool to understand air sensor performance compared to nearby air monitors and to understand local air quality.
@@ -75,7 +75,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
   * [Embedded UART Driver for Sensirion Particulate Matter Sensors](https://github.com/Sensirion/embedded-uart-sps) ⚠️ Archived
 
 * Python
-  * [bme680-python](https://github.com/pimoroni/bme680-python) ⭐ 286 | 🐛 10 | 🌐 Python | 📅 2026-08-26 - *Python library for the BME680 gas, temperature, humidity and pressure sensor.*
+  * [bme680-python](https://github.com/pimoroni/bme680-python) ⭐ 286 | 🐛 10 | 🌐 Python | 📅 2026-09-18 - *Python library for the BME680 gas, temperature, humidity and pressure sensor.*
   * [pyaqsapi](https://github.com/USEPA/pyaqsapi) ⭐ 29 | 🐛 7 | 🌐 Python | 📅 2026-08-31 - A python 3 package to retrieve ambient air monitoring data from the United States Environmental Protection Agency’s (US EPA) Air Quality System (AQS) Data Mart API v2 interface
   * [Software to read out Sensirion SCD30 CO₂ Sensor values over I2C on Raspberry Pi](https://github.com/UnravelTEC/Raspi-Driver-SCD30) ⭐ 25 | 🐛 1 | 🌐 Python | 📅 2020-10-29
   * [py-licor](https://github.com/quant-aq/py-licor) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2019-11-06 - *Python logging software for the Licor 840 CO2/H2O analyzer*
@@ -86,4 +86,4 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
