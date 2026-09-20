@@ -283,7 +283,7 @@
                 "open_issues": 2,
                 "owner": "southlondonscientific",
                 "repo": "aeolus",
-                "stars": 17,
+                "stars": 18,
                 "topics": [
                   "air-quality",
                   "air-quality-data",
@@ -708,27 +708,6 @@
             },
             {
               "node_type": "item",
-              "title": "Air Sensor Network Analysis Tool",
-              "description": "A tool to understand air sensor performance compared to nearby air monitors and to understand local air quality.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A tool to understand air sensor performance compared to nearby air monitors and to understand local air quality.",
-                "homepage": null,
-                "id": 946687416,
-                "language": "R",
-                "license": "MIT",
-                "last_commit": "2025-12-18T19:11:37Z",
-                "open_issues": 0,
-                "owner": "USEPA",
-                "repo": "Air-Sensor-Network-Analysis-Tool-Public-",
-                "stars": 8,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T06:56:56.373Z"
-            },
-            {
-              "node_type": "item",
               "title": "beethoven",
               "description": "BEETHOVEN is: Building an Extensible, rEproducible, Test-driven, Harmonized, Open-source, Versioned, ENsemble model for air quality.",
               "children": [],
@@ -743,6 +722,27 @@
                 "open_issues": 11,
                 "owner": "NIEHS",
                 "repo": "beethoven",
+                "stars": 9,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Air Sensor Network Analysis Tool",
+              "description": "A tool to understand air sensor performance compared to nearby air monitors and to understand local air quality.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A tool to understand air sensor performance compared to nearby air monitors and to understand local air quality.",
+                "homepage": null,
+                "id": 946687416,
+                "language": "R",
+                "license": "MIT",
+                "last_commit": "2025-12-18T19:11:37Z",
+                "open_issues": 0,
+                "owner": "USEPA",
+                "repo": "Air-Sensor-Network-Analysis-Tool-Public-",
                 "stars": 8,
                 "topics": []
               },
@@ -1413,7 +1413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T01:12:44.421Z",
+    "last_updated": "2026-09-20T01:13:19.033Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of air quality resources.",
