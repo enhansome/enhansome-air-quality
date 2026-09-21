@@ -279,7 +279,7 @@
                 "id": 1119646395,
                 "language": "Jupyter Notebook",
                 "license": "GPL-3.0",
-                "last_commit": "2026-06-11T17:59:20Z",
+                "last_commit": "2026-09-20T18:14:55Z",
                 "open_issues": 2,
                 "owner": "southlondonscientific",
                 "repo": "aeolus",
@@ -1413,7 +1413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T01:13:19.033Z",
+    "last_updated": "2026-09-21T01:09:24.651Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of air quality resources.",
