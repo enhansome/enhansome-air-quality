@@ -30,7 +30,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
   * [py-quantaq](https://github.com/quant-aq/py-quantaq) ⭐ 11 | 🐛 3 | 🌐 Python | 📅 2025-12-24 - *A python wrapper for the QuantAQ RESTful API*
   * [The QuantAQ CLI](https://github.com/quant-aq/cli) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2026-09-17 - *QuantAQ command line interface*
   * [quantpy](https://github.com/wacl-york/quant-air-pollution-measurement-errors) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2023-04-27 - *Provides tools for visually evaluating low-cost air quality sensors*
-  * [airinsights](https://github.com/edf-org/airinsights) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-09-28 - Analysis suite to translate local air quality data into actionable insights.
+  * [airinsights](https://github.com/edf-org/airinsights) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-09-29 - Analysis suite to translate local air quality data into actionable insights.
 
 * R
   * [CMAQ](https://github.com/USEPA/CMAQ) ⭐ 366 | 🐛 6 | 🌐 Fortran | 📅 2026-07-09 - Code for U.S. EPA’s Community Multiscale Air Quality Model (CMAQ) which helps in conducting air quality model simulations.
@@ -44,14 +44,14 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
   * [RAQSAPI](https://github.com/USEPA/RAQSAPI) ⭐ 26 | 🐛 2 | 🌐 R | 📅 2026-09-28 - A R extension to Retrieve EPA Air Quality System Data via the AQS Data Mart API.
   * [saqgetr](https://github.com/skgrange/saqgetr) ⭐ 11 | 🐛 2 | 🌐 R | 📅 2026-07-03 - Import Air Quality Monitoring Data in a Fast and Easy Way
   * [AirMonitor](https://github.com/MazamaScience/AirMonitor) ⭐ 10 | 🐛 1 | 🌐 HTML | 📅 2026-09-28 - *Utilities for working with air quality monitoring data* [CRAN](https://cran.r-project.org/web/packages/AirMonitor/index.html)
-  * [beethoven](https://github.com/NIEHS/beethoven) ⭐ 9 | 🐛 11 | 🌐 R | 📅 2026-06-17 - BEETHOVEN is: Building an Extensible, rEproducible, Test-driven, Harmonized, Open-source, Versioned, ENsemble model for air quality.
+  * [beethoven](https://github.com/NIEHS/beethoven) ⭐ 9 | 🐛 11 | 🌐 R | 📅 2026-09-29 - BEETHOVEN is: Building an Extensible, rEproducible, Test-driven, Harmonized, Open-source, Versioned, ENsemble model for air quality.
   * [Air Sensor Network Analysis Tool](https://github.com/USEPA/Air-Sensor-Network-Analysis-Tool-Public-) ⭐ 8 | 🐛 0 | 🌐 R | 📅 2025-12-18 - A tool to understand air sensor performance compared to nearby air monitors and to understand local air quality.
   * [quantr](https://github.com/wacl-york/quant-air-pollution-measurement-errors) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2023-04-27 - *Provides tools for visually evaluating low-cost air quality sensors*
   * [rPollution](https://github.com/openvironment/Rpollution) ⭐ 7 | 🐛 2 | 🌐 HTML | 📅 2021-04-15 - R functions to work with air pollution data
   * [Purple Air Data Merger](https://github.com/SebAire/Purple-Air-Data-Merger) ⭐ 6 | 🐛 0 | 🌐 R | 📅 2026-03-23 - *Merges and corrects Purple Air SD Card Data*
   * [SENTINEL](https://github.com/USEPA/SENTINEL) ⭐ 5 | 🐛 0 | 🌐 R | 📅 2025-05-02 - Fenceline Sensor Data Analysis, Quality Assurance, & Visualization
   * [r-quantaq](https://github.com/quant-aq/r-quantaq) ⭐ 4 | 🐛 0 | 🌐 R | 📅 2023-12-13 - The official R wrapper for the QuantAQ API
-  * [API Data Retrieval Analysis](https://github.com/CosmosWems/API-Data-Retrieval-Analysis) ⭐ 3 | 🐛 0 | 🌐 R | 📅 2026-06-08 - An R-base web application for exploring real-time and historical air quality data from the global OpenAQ sensor network, with integrated atmospheric data analysis powered by the openair R package.
+  * [API Data Retrieval Analysis](https://github.com/CosmosWems/API-Data-Retrieval-Analysis) ⭐ 3 | 🐛 1 | 🌐 R | 📅 2026-06-08 - An R-base web application for exploring real-time and historical air quality data from the global OpenAQ sensor network, with integrated atmospheric data analysis powered by the openair R package.
   * [AirBeamR](https://github.com/aq-sensors/airbeamR) ⭐ 0 | 🐛 0 | 🌐 R | 📅 2022-08-16 - An interactive data tool to visualize and work with AirBeam, OpenAQ, and PurpleAir data
   * [sensortoolkit](https://github.com/gmiskell/sensortoolkit) ⭐ 0 | 🐛 0 | 🌐 R | 📅 2018-09-05 - \_A collection of R scripts for managing an air quality sensor network
   * [openaq](https://github.com/openaq-r) Official OpenAQ R client for the OpenAQ API.
@@ -86,4 +86,4 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
