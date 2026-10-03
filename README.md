@@ -24,11 +24,11 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
   * [sensortoolkit](https://github.com/USEPA/sensortoolkit) ⭐ 31 | 🐛 5 | 🌐 Python | 📅 2024-12-11 - *Air Sensor Data Analysis Library*
   * [openaq-python](https://github.com/openaq/openaq-python) ⭐ 23 | 🐛 3 | 🌐 Python | 📅 2026-10-01 - Official OpenAQ Python SDK for working with the OpenAQ API.
   * [py-opcsim](https://github.com/dhhagan/opcsim) ⭐ 20 | 🐛 8 | 🌐 Python | 📅 2024-12-24 - *Python library to simulate OPCs and Nephlometers under different conditions*
-  * [aeolus](https://github.com/southlondonscientific/aeolus) ⭐ 18 | 🐛 1 | 🌐 Python | 📅 2026-09-22 - *Download and analyse air quality data from 14 monitoring networks with a unified schema. Includes trend analysis and AQI calculations.* [PyPI](https://pypi.org/project/aeolus-aq/)
+  * [aeolus](https://github.com/southlondonscientific/aeolus) ⭐ 18 | 🐛 1 | 🌐 Python | 📅 2026-10-02 - *Download and analyse air quality data from 14 monitoring networks with a unified schema. Includes trend analysis and AQI calculations.* [PyPI](https://pypi.org/project/aeolus-aq/)
   * [atmospy](https://github.com/quant-aq/atmospy) ⭐ 16 | 🐛 3 | 🌐 Python | 📅 2026-09-25  - *visualization and analysis tools for air quality data in python*
   * [airbase](https://github.com/JohnPaton/airbase) ⭐ 11 | 🐛 6 | 🌐 Python | 📅 2025-10-14 - An easy downloader for the AirBase air quality data.
   * [py-quantaq](https://github.com/quant-aq/py-quantaq) ⭐ 11 | 🐛 3 | 🌐 Python | 📅 2025-12-24 - *A python wrapper for the QuantAQ RESTful API*
-  * [The QuantAQ CLI](https://github.com/quant-aq/cli) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2026-09-17 - *QuantAQ command line interface*
+  * [The QuantAQ CLI](https://github.com/quant-aq/cli) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2026-10-02 - *QuantAQ command line interface*
   * [quantpy](https://github.com/wacl-york/quant-air-pollution-measurement-errors) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2023-04-27 - *Provides tools for visually evaluating low-cost air quality sensors*
   * [airinsights](https://github.com/edf-org/airinsights) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-09-30 - Analysis suite to translate local air quality data into actionable insights.
 
@@ -41,7 +41,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
   * [openairmaps](https://github.com/davidcarslaw/openairmaps) ⭐ 27 | 🐛 5 | 🌐 R | 📅 2026-09-28 - *mapping functions to support openair* [CRAN](https://cran.r-project.org/web/packages/openairmaps/index.html)
   * [qualR](https://github.com/ropensci/qualR) ⭐ 27 | 🐛 9 | 🌐 R | 📅 2026-05-24 - This is the qualR package, it will help you bring São Paulo and Rio de Janeiro air quality data to your R session 🇧🇷.
   * [AMET](https://github.com/USEPA/AMET) ⭐ 26 | 🐛 3 | 🌐 R | 📅 2026-09-25 - Code base for the U.S. EPA’s Atmospheric Model Evaluation Tool (AMET).
-  * [RAQSAPI](https://github.com/USEPA/RAQSAPI) ⭐ 26 | 🐛 2 | 🌐 R | 📅 2026-10-01 - A R extension to Retrieve EPA Air Quality System Data via the AQS Data Mart API.
+  * [RAQSAPI](https://github.com/USEPA/RAQSAPI) ⭐ 26 | 🐛 2 | 🌐 R | 📅 2026-10-02 - A R extension to Retrieve EPA Air Quality System Data via the AQS Data Mart API.
   * [saqgetr](https://github.com/skgrange/saqgetr) ⭐ 11 | 🐛 2 | 🌐 R | 📅 2026-07-03 - Import Air Quality Monitoring Data in a Fast and Easy Way
   * [AirMonitor](https://github.com/MazamaScience/AirMonitor) ⭐ 10 | 🐛 1 | 🌐 HTML | 📅 2026-09-28 - *Utilities for working with air quality monitoring data* [CRAN](https://cran.r-project.org/web/packages/AirMonitor/index.html)
   * [beethoven](https://github.com/NIEHS/beethoven) ⭐ 9 | 🐛 11 | 🌐 R | 📅 2026-09-29 - BEETHOVEN is: Building an Extensible, rEproducible, Test-driven, Harmonized, Open-source, Versioned, ENsemble model for air quality.
@@ -51,7 +51,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
   * [Purple Air Data Merger](https://github.com/SebAire/Purple-Air-Data-Merger) ⭐ 6 | 🐛 0 | 🌐 R | 📅 2026-03-23 - *Merges and corrects Purple Air SD Card Data*
   * [SENTINEL](https://github.com/USEPA/SENTINEL) ⭐ 5 | 🐛 0 | 🌐 R | 📅 2025-05-02 - Fenceline Sensor Data Analysis, Quality Assurance, & Visualization
   * [r-quantaq](https://github.com/quant-aq/r-quantaq) ⭐ 4 | 🐛 0 | 🌐 R | 📅 2023-12-13 - The official R wrapper for the QuantAQ API
-  * [API Data Retrieval Analysis](https://github.com/CosmosWems/API-Data-Retrieval-Analysis) ⭐ 3 | 🐛 1 | 🌐 R | 📅 2026-06-08 - An R-base web application for exploring real-time and historical air quality data from the global OpenAQ sensor network, with integrated atmospheric data analysis powered by the openair R package.
+  * [API Data Retrieval Analysis](https://github.com/CosmosWems/API-Data-Retrieval-Analysis) ⭐ 3 | 🐛 2 | 🌐 R | 📅 2026-06-08 - An R-base web application for exploring real-time and historical air quality data from the global OpenAQ sensor network, with integrated atmospheric data analysis powered by the openair R package.
   * [AirBeamR](https://github.com/aq-sensors/airbeamR) ⭐ 0 | 🐛 0 | 🌐 R | 📅 2022-08-16 - An interactive data tool to visualize and work with AirBeam, OpenAQ, and PurpleAir data
   * [sensortoolkit](https://github.com/gmiskell/sensortoolkit) ⭐ 0 | 🐛 0 | 🌐 R | 📅 2018-09-05 - \_A collection of R scripts for managing an air quality sensor network
   * [openaq](https://github.com/openaq-r) Official OpenAQ R client for the OpenAQ API.
@@ -86,4 +86,4 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
