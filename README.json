@@ -960,7 +960,7 @@
             {
               "node_type": "item",
               "title": "Embedded SGP Drivers for Sensirion Gas Sensors",
-              "description": null,
+              "description": "Sensirion/embedded-sgp",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -998,7 +998,7 @@
             {
               "node_type": "item",
               "title": "Embedded i2c Driver for Sensirion Particulate Matter Sensors",
-              "description": null,
+              "description": "Sensirion/embedded-sps",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1029,7 +1029,7 @@
             {
               "node_type": "item",
               "title": "LibreCO2",
-              "description": null,
+              "description": "danielbernalb/LibreCO2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1065,7 +1065,7 @@
             {
               "node_type": "item",
               "title": "Embedded SCD Drivers for Sensirion CO2 Sensors",
-              "description": null,
+              "description": "Sensirion/embedded-scd",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1133,7 +1133,7 @@
             {
               "node_type": "item",
               "title": "Arduino library for Sensirion SCD4x sensors",
-              "description": null,
+              "description": "Sensirion/arduino-i2c-scd4x",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1162,7 +1162,7 @@
             {
               "node_type": "item",
               "title": "Sensirion SPS30 driver for ESP32, SODAQ, MEGA2560, UNO, ESP8266, Particle-photon on UART OR I2C coummunication",
-              "description": null,
+              "description": "paulvha/sps30",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1198,7 +1198,7 @@
             {
               "node_type": "item",
               "title": "Nova Fitness SDS dust sensors arduino library",
-              "description": null,
+              "description": "lewapek/sds-dust-sensors-arduino-library",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1231,7 +1231,7 @@
             {
               "node_type": "item",
               "title": "Embedded UART Driver for Sensirion Particulate Matter Sensors",
-              "description": null,
+              "description": "Sensirion/embedded-uart-sps",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1329,7 +1329,7 @@
             {
               "node_type": "item",
               "title": "Software to read out Sensirion SCD30 CO₂ Sensor values over I2C on Raspberry Pi",
-              "description": null,
+              "description": "UnravelTEC/Raspi-Driver-SCD30",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1384,7 +1384,7 @@
             {
               "node_type": "item",
               "title": "Rust library with common functionality for I2C sensors",
-              "description": null,
+              "description": "Sensirion/sensirion-i2c-rs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1413,7 +1413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:01:26.552Z",
+    "last_updated": "2026-10-03T04:32:08.825Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of air quality resources.",
