@@ -378,7 +378,7 @@
                 "id": 269229902,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T20:06:50Z",
+                "last_commit": "2026-10-03T05:08:19Z",
                 "open_issues": 2,
                 "owner": "quant-aq",
                 "repo": "cli",
@@ -1413,7 +1413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:32:08.825Z",
+    "last_updated": "2026-10-04T02:42:33.993Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of air quality resources.",
