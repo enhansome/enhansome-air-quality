@@ -452,7 +452,7 @@
                 "open_issues": 6,
                 "owner": "USEPA",
                 "repo": "CMAQ",
-                "stars": 367,
+                "stars": 368,
                 "topics": [
                   "ord",
                   "research"
@@ -476,7 +476,7 @@
                 "open_issues": 29,
                 "owner": "openair-project",
                 "repo": "openair",
-                "stars": 365,
+                "stars": 366,
                 "topics": [
                   "air-quality",
                   "air-quality-data",
@@ -1413,7 +1413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T02:42:33.993Z",
+    "last_updated": "2026-10-05T02:02:38.934Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of air quality resources.",
