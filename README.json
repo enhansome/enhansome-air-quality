@@ -420,7 +420,7 @@
                 "id": 1219229692,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-08T20:39:02Z",
+                "last_commit": "2026-10-09T21:37:08Z",
                 "open_issues": 1,
                 "owner": "edf-org",
                 "repo": "airinsights",
@@ -448,15 +448,12 @@
                 "id": 67511274,
                 "language": "Fortran",
                 "license": "MIT",
-                "last_commit": "2026-10-08T21:09:02Z",
+                "last_commit": "2026-10-09T17:09:23Z",
                 "open_issues": 6,
                 "owner": "USEPA",
                 "repo": "CMAQ",
                 "stars": 368,
-                "topics": [
-                  "ord",
-                  "research"
-                ]
+                "topics": []
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
             },
@@ -472,7 +469,7 @@
                 "id": 29305085,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-07T14:54:06Z",
+                "last_commit": "2026-10-09T08:45:57Z",
                 "open_issues": 29,
                 "owner": "openair-project",
                 "repo": "openair",
@@ -1413,7 +1410,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T02:57:22.437Z",
+    "last_updated": "2026-10-10T02:22:41.997Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of air quality resources.",
