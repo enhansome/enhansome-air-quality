@@ -419,9 +419,9 @@
                 "homepage": null,
                 "id": 1219229692,
                 "language": "Python",
-                "license": "GPL-3.0",
-                "last_commit": "2026-10-09T21:37:08Z",
-                "open_issues": 1,
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-12T18:07:15Z",
+                "open_issues": 0,
                 "owner": "edf-org",
                 "repo": "airinsights",
                 "stars": 1,
@@ -1410,7 +1410,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T02:26:58.479Z",
+    "last_updated": "2026-10-13T03:35:43.473Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of air quality resources.",
