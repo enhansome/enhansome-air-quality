@@ -22,7 +22,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
   * [py-openaq](https://github.com/dhhagan/py-openaq) ⭐ 65 | 🐛 19 | 🌐 Python | 📅 2025-03-13 - *python wrapper for the OpenAQ API*
   * [py-smps](https://github.com/quant-aq/py-smps) ⭐ 41 | 🐛 10 | 🌐 Python | 📅 2026-07-10 - *Python library for the analysis and visualization of data from a Scanning Mobility Particle Sizer (SMPS) and other similar instruments (SEMS, OPC's).*
   * [sensortoolkit](https://github.com/USEPA/sensortoolkit) ⭐ 31 | 🐛 5 | 🌐 Python | 📅 2024-12-11 - *Air Sensor Data Analysis Library*
-  * [openaq-python](https://github.com/openaq/openaq-python) ⭐ 25 | 🐛 6 | 🌐 Python | 📅 2026-10-07 - Official OpenAQ Python SDK for working with the OpenAQ API.
+  * [openaq-python](https://github.com/openaq/openaq-python) ⭐ 25 | 🐛 4 | 🌐 Python | 📅 2026-10-14 - Official OpenAQ Python SDK for working with the OpenAQ API.
   * [py-opcsim](https://github.com/dhhagan/opcsim) ⭐ 20 | 🐛 8 | 🌐 Python | 📅 2024-12-24 - *Python library to simulate OPCs and Nephlometers under different conditions*
   * [aeolus](https://github.com/southlondonscientific/aeolus) ⭐ 18 | 🐛 1 | 🌐 Python | 📅 2026-10-08 - *Download and analyse air quality data from 14 monitoring networks with a unified schema. Includes trend analysis and AQI calculations.* [PyPI](https://pypi.org/project/aeolus-aq/)
   * [atmospy](https://github.com/quant-aq/atmospy) ⭐ 16 | 🐛 3 | 🌐 Python | 📅 2026-09-25  - *visualization and analysis tools for air quality data in python*
@@ -30,7 +30,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
   * [py-quantaq](https://github.com/quant-aq/py-quantaq) ⭐ 11 | 🐛 3 | 🌐 Python | 📅 2025-12-24 - *A python wrapper for the QuantAQ RESTful API*
   * [The QuantAQ CLI](https://github.com/quant-aq/cli) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2026-10-08 - *QuantAQ command line interface*
   * [quantpy](https://github.com/wacl-york/quant-air-pollution-measurement-errors) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2023-04-27 - *Provides tools for visually evaluating low-cost air quality sensors*
-  * [airinsights](https://github.com/edf-org/airinsights) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-10-13 - Analysis suite to translate local air quality data into actionable insights.
+  * [airinsights](https://github.com/edf-org/airinsights) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-10-14 - Analysis suite to translate local air quality data into actionable insights.
 
 * R
   * [CMAQ](https://github.com/USEPA/CMAQ) ⭐ 368 | 🐛 6 | 🌐 Fortran | 📅 2026-10-09 - Code for U.S. EPA’s Community Multiscale Air Quality Model (CMAQ) which helps in conducting air quality model simulations.
@@ -44,7 +44,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
   * [RAQSAPI](https://github.com/USEPA/RAQSAPI) ⭐ 26 | 🐛 3 | 🌐 R | 📅 2026-10-02 - A R extension to Retrieve EPA Air Quality System Data via the AQS Data Mart API.
   * [saqgetr](https://github.com/skgrange/saqgetr) ⭐ 11 | 🐛 2 | 🌐 R | 📅 2026-07-03 - Import Air Quality Monitoring Data in a Fast and Easy Way
   * [AirMonitor](https://github.com/MazamaScience/AirMonitor) ⭐ 10 | 🐛 1 | 🌐 HTML | 📅 2026-09-28 - *Utilities for working with air quality monitoring data* [CRAN](https://cran.r-project.org/web/packages/AirMonitor/index.html)
-  * [beethoven](https://github.com/NIEHS/beethoven) ⭐ 9 | 🐛 13 | 🌐 R | 📅 2026-10-13 - BEETHOVEN is: Building an Extensible, rEproducible, Test-driven, Harmonized, Open-source, Versioned, ENsemble model for air quality.
+  * [beethoven](https://github.com/NIEHS/beethoven) ⭐ 9 | 🐛 13 | 🌐 R | 📅 2026-10-14 - BEETHOVEN is: Building an Extensible, rEproducible, Test-driven, Harmonized, Open-source, Versioned, ENsemble model for air quality.
   * [Air Sensor Network Analysis Tool](https://github.com/USEPA/Air-Sensor-Network-Analysis-Tool-Public-) ⭐ 8 | 🐛 0 | 🌐 R | 📅 2026-09-30 - A tool to understand air sensor performance compared to nearby air monitors and to understand local air quality.
   * [quantr](https://github.com/wacl-york/quant-air-pollution-measurement-errors) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2023-04-27 - *Provides tools for visually evaluating low-cost air quality sensors*
   * [rPollution](https://github.com/openvironment/Rpollution) ⭐ 7 | 🐛 2 | 🌐 HTML | 📅 2021-04-15 - R functions to work with air pollution data
@@ -71,7 +71,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
   * [PMS](https://github.com/fu-hsi/PMS) ⭐ 155 | 🐛 8 | 🌐 C++ | 📅 2022-03-13 - *Arduino library for Plantower PMS x003 family sensors.*
   * [Arduino library for Sensirion SCD4x sensors](https://github.com/Sensirion/arduino-i2c-scd4x) ⭐ 83 | 🐛 2 | 🌐 C++ | 📅 2026-07-16
   * [Sensirion SPS30 driver for ESP32, SODAQ, MEGA2560, UNO, ESP8266, Particle-photon on UART OR I2C coummunication](https://github.com/paulvha/sps30) ⭐ 69 | 🐛 2 | 🌐 C++ | 📅 2026-04-18
-  * [Nova Fitness SDS dust sensors arduino library](https://github.com/lewapek/sds-dust-sensors-arduino-library) ⭐ 68 | 🐛 5 | 🌐 C++ | 📅 2022-02-16
+  * [Nova Fitness SDS dust sensors arduino library](https://github.com/lewapek/sds-dust-sensors-arduino-library) ⭐ 68 | 🐛 3 | 🌐 C++ | 📅 2026-10-14
   * [Embedded UART Driver for Sensirion Particulate Matter Sensors](https://github.com/Sensirion/embedded-uart-sps) ⚠️ Archived
 
 * Python
@@ -86,4 +86,4 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
