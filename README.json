@@ -232,7 +232,7 @@
                 "id": 703241865,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T22:30:26Z",
+                "last_commit": "2026-10-15T21:54:06Z",
                 "open_issues": 4,
                 "owner": "openaq",
                 "repo": "openaq-python",
@@ -420,7 +420,7 @@
                 "id": 1219229692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T21:45:53Z",
+                "last_commit": "2026-10-15T16:26:55Z",
                 "open_issues": 0,
                 "owner": "edf-org",
                 "repo": "airinsights",
@@ -715,8 +715,8 @@
                 "id": 666215399,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-14T20:41:30Z",
-                "open_issues": 13,
+                "last_commit": "2026-10-15T20:06:59Z",
+                "open_issues": 10,
                 "owner": "NIEHS",
                 "repo": "beethoven",
                 "stars": 9,
@@ -1370,6 +1370,39 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
+            },
+            {
+              "node_type": "item",
+              "title": "atmotube-prometheus",
+              "description": "Reads an Atmotube PRO air sensor over Bluetooth LE (PM1/PM2.5/PM10, VOC, temperature, humidity, pressure) and exports it to Prometheus via node_exporter's textfile collector, with threshold alerts and Grafana/Perses dashboards.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Atmotube PRO air sensor to Prometheus over Bluetooth LE: node_exporter textfile collector, GATT fallback when BlueZ swallows a packet, threshold alerts, dashboards for Perses and Grafana. No cloud, no Home Assistant.",
+                "homepage": null,
+                "id": 1388174663,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-15T10:06:12Z",
+                "open_issues": 0,
+                "owner": "DanielEnki420",
+                "repo": "atmotube-prometheus",
+                "stars": 0,
+                "topics": [
+                  "air-quality",
+                  "atmotube",
+                  "bleak",
+                  "bluetooth-le",
+                  "grafana",
+                  "homelab",
+                  "node-exporter",
+                  "perses",
+                  "prometheus",
+                  "raspberry-pi",
+                  "selfhosted"
+                ]
+              },
+              "first_seen": "2026-10-16T01:24:33.386Z"
             }
           ]
         },
@@ -1410,7 +1443,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T01:30:42.628Z",
+    "last_updated": "2026-10-16T01:24:33.386Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of air quality resources.",
@@ -1418,11 +1451,11 @@
       "id": 74869843,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-09T16:33:01Z",
+      "last_commit": "2026-10-15T15:15:35Z",
       "open_issues": 0,
       "owner": "openaq",
       "repo": "awesome-air-quality",
-      "stars": 72,
+      "stars": 73,
       "topics": [
         "air-quality",
         "aqi",
@@ -1430,7 +1463,7 @@
         "code4cleanair"
       ]
     },
-    "original_repository_sha": "a52de7bbd6d1ed7b017149082601a34360b56d9f",
+    "original_repository_sha": "917eef87762c699f64c7427ff063f1b82d17180c",
     "enhanced_repository": "enhansome/enhansome-air-quality",
     "enhanced_repository_description": null,
     "title": "Awesome air quality with stars"
