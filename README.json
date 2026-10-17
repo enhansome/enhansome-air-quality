@@ -452,7 +452,7 @@
                 "open_issues": 6,
                 "owner": "USEPA",
                 "repo": "CMAQ",
-                "stars": 368,
+                "stars": 369,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
@@ -539,7 +539,7 @@
                 "id": 813352266,
                 "language": "R",
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-09-02T09:07:57Z",
+                "last_commit": "2026-10-16T11:04:54Z",
                 "open_issues": 0,
                 "owner": "AarshBatra",
                 "repo": "biteSizedAQ",
@@ -560,7 +560,7 @@
                 "id": 73397348,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-28T10:45:12Z",
+                "last_commit": "2026-10-16T09:44:50Z",
                 "open_issues": 5,
                 "owner": "openair-project",
                 "repo": "openairmaps",
@@ -715,7 +715,7 @@
                 "id": 666215399,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-15T20:06:59Z",
+                "last_commit": "2026-10-16T20:18:52Z",
                 "open_issues": 10,
                 "owner": "NIEHS",
                 "repo": "beethoven",
@@ -1443,7 +1443,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T01:24:33.386Z",
+    "last_updated": "2026-10-17T01:20:13.843Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of air quality resources.",
