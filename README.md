@@ -34,7 +34,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
 
 * R
   * [CMAQ](https://github.com/USEPA/CMAQ) ⭐ 370 | 🐛 6 | 🌐 Fortran | 📅 2026-10-09 - Code for U.S. EPA’s Community Multiscale Air Quality Model (CMAQ) which helps in conducting air quality model simulations.
-  * [openair](https://github.com/davidcarslaw/openair) ⭐ 367 | 🐛 29 | 🌐 R | 📅 2026-10-21 - *Tools to analyse, interpret and understand air pollution data. Data are typically hourly time series and both monitoring data and dispersion model output can be analysed. Many functions can also be applied to other data, including meteorological and traffic data.* [CRAN](https://cran.r-project.org/web/packages/openair/index.html)
+  * [openair](https://github.com/davidcarslaw/openair) ⭐ 368 | 🐛 29 | 🌐 R | 📅 2026-10-21 - *Tools to analyse, interpret and understand air pollution data. Data are typically hourly time series and both monitoring data and dispersion model output can be analysed. Many functions can also be applied to other data, including meteorological and traffic data.* [CRAN](https://cran.r-project.org/web/packages/openair/index.html)
   * [rmweather](https://github.com/skgrange/rmweather) ⭐ 56 | 🐛 0 | 🌐 R | 📅 2025-12-03 - Tools to Conduct Meteorological Normalisation on Air Quality Data.
   * [AirSensor](https://github.com/MazamaScience/AirSensor) ⭐ 40 | 🐛 8 | 🌐 R | 📅 2023-04-26  - *Utilities for working with data from PurpleAir sensors*[CRAN](https://cran.r-project.org/web/packages/AirSensor/index.html)
   * [biteSizedAQ](https://github.com/AarshBatra/biteSizedAQ/) ⭐ 31 | 🐛 0 | 🌐 R | 📅 2026-10-16 - *A collection of bite sized projects aimed at democratizing access to air quality data, pipelines and insights in a manner that is free, open, accessible and easy to understand. Air pollution can feel like a giant overwhelming issue and it is, but by consistently taking bite-sized smart steps, we can collectively make significant progress in tackling it!*
@@ -44,7 +44,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
   * [AMET](https://github.com/USEPA/AMET) ⭐ 26 | 🐛 3 | 🌐 R | 📅 2026-09-25 - Code base for the U.S. EPA’s Atmospheric Model Evaluation Tool (AMET).
   * [saqgetr](https://github.com/skgrange/saqgetr) ⭐ 11 | 🐛 2 | 🌐 R | 📅 2026-07-03 - Import Air Quality Monitoring Data in a Fast and Easy Way
   * [AirMonitor](https://github.com/MazamaScience/AirMonitor) ⭐ 10 | 🐛 1 | 🌐 HTML | 📅 2026-09-28 - *Utilities for working with air quality monitoring data* [CRAN](https://cran.r-project.org/web/packages/AirMonitor/index.html)
-  * [beethoven](https://github.com/NIEHS/beethoven) ⭐ 9 | 🐛 5 | 🌐 R | 📅 2026-10-21 - BEETHOVEN is: Building an Extensible, rEproducible, Test-driven, Harmonized, Open-source, Versioned, ENsemble model for air quality.
+  * [beethoven](https://github.com/NIEHS/beethoven) ⭐ 9 | 🐛 5 | 🌐 R | 📅 2026-10-22 - BEETHOVEN is: Building an Extensible, rEproducible, Test-driven, Harmonized, Open-source, Versioned, ENsemble model for air quality.
   * [Air Sensor Network Analysis Tool](https://github.com/USEPA/Air-Sensor-Network-Analysis-Tool-Public-) ⭐ 8 | 🐛 0 | 🌐 R | 📅 2026-09-30 - A tool to understand air sensor performance compared to nearby air monitors and to understand local air quality.
   * [quantr](https://github.com/wacl-york/quant-air-pollution-measurement-errors) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2023-04-27 - *Provides tools for visually evaluating low-cost air quality sensors*
   * [rPollution](https://github.com/openvironment/Rpollution) ⭐ 7 | 🐛 2 | 🌐 HTML | 📅 2021-04-15 - R functions to work with air pollution data
@@ -70,7 +70,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
 * C++
   * [PMS](https://github.com/fu-hsi/PMS) ⭐ 155 | 🐛 8 | 🌐 C++ | 📅 2022-03-13 - *Arduino library for Plantower PMS x003 family sensors.*
   * [Arduino library for Sensirion SCD4x sensors](https://github.com/Sensirion/arduino-i2c-scd4x) ⭐ 83 | 🐛 2 | 🌐 C++ | 📅 2026-07-16
-  * [Sensirion SPS30 driver for ESP32, SODAQ, MEGA2560, UNO, ESP8266, Particle-photon on UART OR I2C coummunication](https://github.com/paulvha/sps30) ⭐ 69 | 🐛 2 | 🌐 C++ | 📅 2026-04-18
+  * [Sensirion SPS30 driver for ESP32, SODAQ, MEGA2560, UNO, ESP8266, Particle-photon on UART OR I2C coummunication](https://github.com/paulvha/sps30) ⭐ 70 | 🐛 2 | 🌐 C++ | 📅 2026-04-18
   * [Nova Fitness SDS dust sensors arduino library](https://github.com/lewapek/sds-dust-sensors-arduino-library) ⭐ 68 | 🐛 3 | 🌐 C++ | 📅 2026-10-14
   * [Embedded UART Driver for Sensirion Particulate Matter Sensors](https://github.com/Sensirion/embedded-uart-sps) ⚠️ Archived
 
@@ -87,4 +87,4 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
