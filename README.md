@@ -25,10 +25,10 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
   * [openaq-python](https://github.com/openaq/openaq-python) ⭐ 25 | 🐛 4 | 🌐 Python | 📅 2026-10-15 - Official OpenAQ Python SDK for working with the OpenAQ API.
   * [py-opcsim](https://github.com/dhhagan/opcsim) ⭐ 20 | 🐛 8 | 🌐 Python | 📅 2024-12-24 - *Python library to simulate OPCs and Nephlometers under different conditions*
   * [aeolus](https://github.com/southlondonscientific/aeolus) ⭐ 18 | 🐛 1 | 🌐 Python | 📅 2026-10-08 - *Download and analyse air quality data from 14 monitoring networks with a unified schema. Includes trend analysis and AQI calculations.* [PyPI](https://pypi.org/project/aeolus-aq/)
-  * [atmospy](https://github.com/quant-aq/atmospy) ⭐ 16 | 🐛 3 | 🌐 Python | 📅 2026-09-25  - *visualization and analysis tools for air quality data in python*
+  * [atmospy](https://github.com/quant-aq/atmospy) ⭐ 16 | 🐛 4 | 🌐 Python | 📅 2026-10-23  - *visualization and analysis tools for air quality data in python*
   * [airbase](https://github.com/JohnPaton/airbase) ⭐ 12 | 🐛 6 | 🌐 Python | 📅 2025-10-14 - An easy downloader for the AirBase air quality data.
   * [py-quantaq](https://github.com/quant-aq/py-quantaq) ⭐ 11 | 🐛 3 | 🌐 Python | 📅 2025-12-24 - *A python wrapper for the QuantAQ RESTful API*
-  * [The QuantAQ CLI](https://github.com/quant-aq/cli) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2026-10-20 - *QuantAQ command line interface*
+  * [The QuantAQ CLI](https://github.com/quant-aq/cli) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2026-10-23 - *QuantAQ command line interface*
   * [quantpy](https://github.com/wacl-york/quant-air-pollution-measurement-errors) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2023-04-27 - *Provides tools for visually evaluating low-cost air quality sensors*
   * [airinsights](https://github.com/edf-org/airinsights) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-10-15 - Analysis suite to translate local air quality data into actionable insights.
 
@@ -44,7 +44,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
   * [AMET](https://github.com/USEPA/AMET) ⭐ 26 | 🐛 3 | 🌐 R | 📅 2026-09-25 - Code base for the U.S. EPA’s Atmospheric Model Evaluation Tool (AMET).
   * [saqgetr](https://github.com/skgrange/saqgetr) ⭐ 11 | 🐛 2 | 🌐 R | 📅 2026-07-03 - Import Air Quality Monitoring Data in a Fast and Easy Way
   * [AirMonitor](https://github.com/MazamaScience/AirMonitor) ⭐ 10 | 🐛 1 | 🌐 HTML | 📅 2026-09-28 - *Utilities for working with air quality monitoring data* [CRAN](https://cran.r-project.org/web/packages/AirMonitor/index.html)
-  * [beethoven](https://github.com/NIEHS/beethoven) ⭐ 9 | 🐛 5 | 🌐 R | 📅 2026-10-22 - BEETHOVEN is: Building an Extensible, rEproducible, Test-driven, Harmonized, Open-source, Versioned, ENsemble model for air quality.
+  * [beethoven](https://github.com/NIEHS/beethoven) ⭐ 9 | 🐛 5 | 🌐 R | 📅 2026-10-23 - BEETHOVEN is: Building an Extensible, rEproducible, Test-driven, Harmonized, Open-source, Versioned, ENsemble model for air quality.
   * [Air Sensor Network Analysis Tool](https://github.com/USEPA/Air-Sensor-Network-Analysis-Tool-Public-) ⭐ 8 | 🐛 0 | 🌐 R | 📅 2026-09-30 - A tool to understand air sensor performance compared to nearby air monitors and to understand local air quality.
   * [quantr](https://github.com/wacl-york/quant-air-pollution-measurement-errors) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2023-04-27 - *Provides tools for visually evaluating low-cost air quality sensors*
   * [rPollution](https://github.com/openvironment/Rpollution) ⭐ 7 | 🐛 2 | 🌐 HTML | 📅 2021-04-15 - R functions to work with air pollution data
@@ -87,4 +87,4 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._

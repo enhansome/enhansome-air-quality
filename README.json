@@ -310,8 +310,8 @@
                 "id": 16462972,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-25T16:44:22Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-23T23:43:30Z",
+                "open_issues": 4,
                 "owner": "dhhagan",
                 "repo": "atmospy",
                 "stars": 16,
@@ -378,7 +378,7 @@
                 "id": 269229902,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T18:20:40Z",
+                "last_commit": "2026-10-23T15:06:45Z",
                 "open_issues": 2,
                 "owner": "quant-aq",
                 "repo": "cli",
@@ -715,7 +715,7 @@
                 "id": 666215399,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-22T20:00:38Z",
+                "last_commit": "2026-10-23T19:59:04Z",
                 "open_issues": 5,
                 "owner": "NIEHS",
                 "repo": "beethoven",
@@ -1443,7 +1443,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T01:33:22.026Z",
+    "last_updated": "2026-10-24T01:38:20.836Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of air quality resources.",
