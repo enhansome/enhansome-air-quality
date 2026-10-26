@@ -76,7 +76,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
 
 * Python
   * [bme680-python](https://github.com/pimoroni/bme680-python) ⭐ 286 | 🐛 10 | 🌐 Python | 📅 2026-09-18 - *Python library for the BME680 gas, temperature, humidity and pressure sensor.*
-  * [pyaqsapi](https://github.com/USEPA/pyaqsapi) ⭐ 30 | 🐛 5 | 🌐 Python | 📅 2026-10-13 - A python 3 package to retrieve ambient air monitoring data from the United States Environmental Protection Agency’s (US EPA) Air Quality System (AQS) Data Mart API v2 interface
+  * [pyaqsapi](https://github.com/USEPA/pyaqsapi) ⭐ 30 | 🐛 6 | 🌐 Python | 📅 2026-10-25 - A python 3 package to retrieve ambient air monitoring data from the United States Environmental Protection Agency’s (US EPA) Air Quality System (AQS) Data Mart API v2 interface
   * [Software to read out Sensirion SCD30 CO₂ Sensor values over I2C on Raspberry Pi](https://github.com/UnravelTEC/Raspi-Driver-SCD30) ⭐ 25 | 🐛 1 | 🌐 Python | 📅 2020-10-29
   * [py-licor](https://github.com/quant-aq/py-licor) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2019-11-06 - *Python logging software for the Licor 840 CO2/H2O analyzer*
   * [atmotube-prometheus](https://github.com/DanielEnki420/atmotube-prometheus) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-10-15 - *Reads an Atmotube PRO air sensor over Bluetooth LE (PM1/PM2.5/PM10, VOC, temperature, humidity, pressure) and exports it to Prometheus via node\_exporter's textfile collector, with threshold alerts and Grafana/Perses dashboards.*
@@ -87,4 +87,4 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
