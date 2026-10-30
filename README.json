@@ -428,6 +428,36 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
+            },
+            {
+              "node_type": "item",
+              "title": "EnviroQC",
+              "description": "Local, read-only data-quality screening (missing values, duplicates, format errors, configurable ranges) for air/water/soil monitoring CSV and Excel files",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An open-source data quality toolkit for environmental monitoring datasets. 环境监测数据质量检查工具。",
+                "homepage": null,
+                "id": 1436548845,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-28T13:17:50Z",
+                "open_issues": 0,
+                "owner": "LiuxinBlade",
+                "repo": "EnviroQC",
+                "stars": 1,
+                "topics": [
+                  "air-quality",
+                  "csv",
+                  "data-quality",
+                  "data-validation",
+                  "environmental-monitoring",
+                  "excel",
+                  "python",
+                  "qaqc"
+                ]
+              },
+              "first_seen": "2026-10-30T02:38:18.737Z"
             }
           ]
         },
@@ -1443,7 +1473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T02:28:19.102Z",
+    "last_updated": "2026-10-30T02:38:18.737Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of air quality resources.",
@@ -1451,7 +1481,7 @@
       "id": 74869843,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-15T15:15:35Z",
+      "last_commit": "2026-10-29T14:15:30Z",
       "open_issues": 1,
       "owner": "openaq",
       "repo": "awesome-air-quality",
@@ -1463,7 +1493,7 @@
         "code4cleanair"
       ]
     },
-    "original_repository_sha": "917eef87762c699f64c7427ff063f1b82d17180c",
+    "original_repository_sha": "3784642c6589e4a6c22d63c79d1ffae3cc3e3b89",
     "enhanced_repository": "enhansome/enhansome-air-quality",
     "enhanced_repository_description": null,
     "title": "Awesome air quality with stars"
