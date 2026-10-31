@@ -25,7 +25,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
   * [openaq-python](https://github.com/openaq/openaq-python) ⭐ 25 | 🐛 4 | 🌐 Python | 📅 2026-10-15 - Official OpenAQ Python SDK for working with the OpenAQ API.
   * [py-opcsim](https://github.com/dhhagan/opcsim) ⭐ 20 | 🐛 8 | 🌐 Python | 📅 2024-12-24 - *Python library to simulate OPCs and Nephlometers under different conditions*
   * [aeolus](https://github.com/southlondonscientific/aeolus) ⭐ 18 | 🐛 1 | 🌐 Python | 📅 2026-10-08 - *Download and analyse air quality data from 14 monitoring networks with a unified schema. Includes trend analysis and AQI calculations.* [PyPI](https://pypi.org/project/aeolus-aq/)
-  * [atmospy](https://github.com/quant-aq/atmospy) ⭐ 16 | 🐛 4 | 🌐 Python | 📅 2026-10-23  - *visualization and analysis tools for air quality data in python*
+  * [atmospy](https://github.com/quant-aq/atmospy) ⭐ 16 | 🐛 5 | 🌐 Python | 📅 2026-10-30  - *visualization and analysis tools for air quality data in python*
   * [airbase](https://github.com/JohnPaton/airbase) ⭐ 12 | 🐛 6 | 🌐 Python | 📅 2025-10-14 - An easy downloader for the AirBase air quality data.
   * [py-quantaq](https://github.com/quant-aq/py-quantaq) ⭐ 11 | 🐛 3 | 🌐 Python | 📅 2025-12-24 - *A python wrapper for the QuantAQ RESTful API*
   * [The QuantAQ CLI](https://github.com/quant-aq/cli) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2026-10-26 - *QuantAQ command line interface*
@@ -35,7 +35,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
 
 * R
   * [CMAQ](https://github.com/USEPA/CMAQ) ⭐ 370 | 🐛 6 | 🌐 Fortran | 📅 2026-10-09 - Code for U.S. EPA’s Community Multiscale Air Quality Model (CMAQ) which helps in conducting air quality model simulations.
-  * [openair](https://github.com/davidcarslaw/openair) ⭐ 368 | 🐛 30 | 🌐 R | 📅 2026-10-21 - *Tools to analyse, interpret and understand air pollution data. Data are typically hourly time series and both monitoring data and dispersion model output can be analysed. Many functions can also be applied to other data, including meteorological and traffic data.* [CRAN](https://cran.r-project.org/web/packages/openair/index.html)
+  * [openair](https://github.com/davidcarslaw/openair) ⭐ 368 | 🐛 30 | 🌐 R | 📅 2026-10-30 - *Tools to analyse, interpret and understand air pollution data. Data are typically hourly time series and both monitoring data and dispersion model output can be analysed. Many functions can also be applied to other data, including meteorological and traffic data.* [CRAN](https://cran.r-project.org/web/packages/openair/index.html)
   * [rmweather](https://github.com/skgrange/rmweather) ⭐ 56 | 🐛 0 | 🌐 R | 📅 2025-12-03 - Tools to Conduct Meteorological Normalisation on Air Quality Data.
   * [AirSensor](https://github.com/MazamaScience/AirSensor) ⭐ 40 | 🐛 8 | 🌐 R | 📅 2023-04-26  - *Utilities for working with data from PurpleAir sensors*[CRAN](https://cran.r-project.org/web/packages/AirSensor/index.html)
   * [biteSizedAQ](https://github.com/AarshBatra/biteSizedAQ/) ⭐ 31 | 🐛 0 | 🌐 R | 📅 2026-10-16 - *A collection of bite sized projects aimed at democratizing access to air quality data, pipelines and insights in a manner that is free, open, accessible and easy to understand. Air pollution can feel like a giant overwhelming issue and it is, but by consistently taking bite-sized smart steps, we can collectively make significant progress in tackling it!*
@@ -88,4 +88,4 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
