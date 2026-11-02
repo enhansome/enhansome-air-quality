@@ -499,7 +499,7 @@
                 "id": 29305085,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-31T10:11:33Z",
+                "last_commit": "2026-11-01T20:10:34Z",
                 "open_issues": 31,
                 "owner": "openair-project",
                 "repo": "openair",
@@ -580,6 +580,37 @@
             },
             {
               "node_type": "item",
+              "title": "RAQSAPI",
+              "description": "A R extension to Retrieve EPA Air Quality System Data via the AQS Data Mart API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A R extension to retrieve EPA Air Quality System Data via the AQS Data Mart API",
+                "homepage": "https://usepa.github.io/RAQSAPI/",
+                "id": 339523973,
+                "language": "R",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-21T20:45:48Z",
+                "open_issues": 3,
+                "owner": "USEPA",
+                "repo": "RAQSAPI",
+                "stars": 28,
+                "topics": [
+                  "airmonitoring",
+                  "aqs",
+                  "datamart",
+                  "environmental-data-retrieval",
+                  "environmental-monitoring",
+                  "r03",
+                  "rpackage",
+                  "rprogramming",
+                  "usepa"
+                ]
+              },
+              "first_seen": "2026-08-28T06:56:56.373Z"
+            },
+            {
+              "node_type": "item",
               "title": "openairmaps",
               "description": "mapping functions to support openair CRAN",
               "children": [],
@@ -632,37 +663,6 @@
                   "rstats",
                   "sao-paulo",
                   "weather-data"
-                ]
-              },
-              "first_seen": "2026-08-28T06:56:56.373Z"
-            },
-            {
-              "node_type": "item",
-              "title": "RAQSAPI",
-              "description": "A R extension to Retrieve EPA Air Quality System Data via the AQS Data Mart API.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A R extension to retrieve EPA Air Quality System Data via the AQS Data Mart API",
-                "homepage": "https://usepa.github.io/RAQSAPI/",
-                "id": 339523973,
-                "language": "R",
-                "license": "NOASSERTION",
-                "last_commit": "2026-10-21T20:45:48Z",
-                "open_issues": 3,
-                "owner": "USEPA",
-                "repo": "RAQSAPI",
-                "stars": 27,
-                "topics": [
-                  "airmonitoring",
-                  "aqs",
-                  "datamart",
-                  "environmental-data-retrieval",
-                  "environmental-monitoring",
-                  "r03",
-                  "rpackage",
-                  "rprogramming",
-                  "usepa"
                 ]
               },
               "first_seen": "2026-08-28T06:56:56.373Z"
@@ -1473,7 +1473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T02:16:11.811Z",
+    "last_updated": "2026-11-02T02:33:27.044Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of air quality resources.",
