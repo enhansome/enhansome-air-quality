@@ -136,8 +136,8 @@
                 "id": 23605929,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2021-11-30T08:34:11Z",
-                "open_issues": 28,
+                "last_commit": "2026-11-06T12:46:31Z",
+                "open_issues": 38,
                 "owner": "hrbonz",
                 "repo": "python-aqi",
                 "stars": 66,
@@ -503,7 +503,7 @@
                 "open_issues": 31,
                 "owner": "openair-project",
                 "repo": "openair",
-                "stars": 369,
+                "stars": 368,
                 "topics": [
                   "air-quality",
                   "air-quality-data",
@@ -1473,7 +1473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T03:27:38.557Z",
+    "last_updated": "2026-11-07T02:50:55.596Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of air quality resources.",
