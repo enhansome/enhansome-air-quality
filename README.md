@@ -18,7 +18,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
   * [openaq](https://github.com/nickolasclarke/openaq) ⭐ 18 | 🐛 1 | 🌐 JavaScript | 📅 2017-03-14 - *A JS client for the OpenAQ API*
 
 * Python
-  * [python-aqi](https://github.com/hrbonz/python-aqi) ⭐ 66 | 🐛 38 | 🌐 Python | 📅 2026-11-06 - *A library to convert between AQI value and pollutant concentration (µg/m³ or ppm)*
+  * [python-aqi](https://github.com/hrbonz/python-aqi) ⭐ 66 | 🐛 32 | 🌐 Python | 📅 2026-11-07 - *A library to convert between AQI value and pollutant concentration (µg/m³ or ppm)*
   * [py-openaq](https://github.com/dhhagan/py-openaq) ⭐ 65 | 🐛 19 | 🌐 Python | 📅 2025-03-13 - *python wrapper for the OpenAQ API*
   * [py-smps](https://github.com/quant-aq/py-smps) ⭐ 41 | 🐛 10 | 🌐 Python | 📅 2026-07-10 - *Python library for the analysis and visualization of data from a Scanning Mobility Particle Sizer (SMPS) and other similar instruments (SEMS, OPC's).*
   * [sensortoolkit](https://github.com/USEPA/sensortoolkit) ⭐ 31 | 🐛 5 | 🌐 Python | 📅 2024-12-11 - *Air Sensor Data Analysis Library*
@@ -88,4 +88,4 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
