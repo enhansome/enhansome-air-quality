@@ -35,7 +35,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
 
 * R
   * [CMAQ](https://github.com/USEPA/CMAQ) ⭐ 371 | 🐛 7 | 🌐 Fortran | 📅 2026-10-09 - Code for U.S. EPA’s Community Multiscale Air Quality Model (CMAQ) which helps in conducting air quality model simulations.
-  * [openair](https://github.com/davidcarslaw/openair) ⭐ 368 | 🐛 31 | 🌐 R | 📅 2026-11-01 - *Tools to analyse, interpret and understand air pollution data. Data are typically hourly time series and both monitoring data and dispersion model output can be analysed. Many functions can also be applied to other data, including meteorological and traffic data.* [CRAN](https://cran.r-project.org/web/packages/openair/index.html)
+  * [openair](https://github.com/davidcarslaw/openair) ⭐ 369 | 🐛 32 | 🌐 R | 📅 2026-11-09 - *Tools to analyse, interpret and understand air pollution data. Data are typically hourly time series and both monitoring data and dispersion model output can be analysed. Many functions can also be applied to other data, including meteorological and traffic data.* [CRAN](https://cran.r-project.org/web/packages/openair/index.html)
   * [rmweather](https://github.com/skgrange/rmweather) ⭐ 56 | 🐛 0 | 🌐 R | 📅 2025-12-03 - Tools to Conduct Meteorological Normalisation on Air Quality Data.
   * [AirSensor](https://github.com/MazamaScience/AirSensor) ⭐ 40 | 🐛 8 | 🌐 R | 📅 2023-04-26  - *Utilities for working with data from PurpleAir sensors*[CRAN](https://cran.r-project.org/web/packages/AirSensor/index.html)
   * [biteSizedAQ](https://github.com/AarshBatra/biteSizedAQ/) ⭐ 31 | 🐛 0 | 🌐 R | 📅 2026-10-16 - *A collection of bite sized projects aimed at democratizing access to air quality data, pipelines and insights in a manner that is free, open, accessible and easy to understand. Air pollution can feel like a giant overwhelming issue and it is, but by consistently taking bite-sized smart steps, we can collectively make significant progress in tackling it!*
@@ -77,7 +77,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
 
 * Python
   * [bme680-python](https://github.com/pimoroni/bme680-python) ⭐ 286 | 🐛 10 | 🌐 Python | 📅 2026-09-18 - *Python library for the BME680 gas, temperature, humidity and pressure sensor.*
-  * [pyaqsapi](https://github.com/USEPA/pyaqsapi) ⭐ 30 | 🐛 10 | 🌐 Python | 📅 2026-11-03 - A python 3 package to retrieve ambient air monitoring data from the United States Environmental Protection Agency’s (US EPA) Air Quality System (AQS) Data Mart API v2 interface
+  * [pyaqsapi](https://github.com/USEPA/pyaqsapi) ⭐ 30 | 🐛 11 | 🌐 Python | 📅 2026-11-09 - A python 3 package to retrieve ambient air monitoring data from the United States Environmental Protection Agency’s (US EPA) Air Quality System (AQS) Data Mart API v2 interface
   * [Software to read out Sensirion SCD30 CO₂ Sensor values over I2C on Raspberry Pi](https://github.com/UnravelTEC/Raspi-Driver-SCD30) ⭐ 25 | 🐛 1 | 🌐 Python | 📅 2020-10-29
   * [py-licor](https://github.com/quant-aq/py-licor) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2019-11-06 - *Python logging software for the Licor 840 CO2/H2O analyzer*
   * [atmotube-prometheus](https://github.com/DanielEnki420/atmotube-prometheus) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-10-15 - *Reads an Atmotube PRO air sensor over Bluetooth LE (PM1/PM2.5/PM10, VOC, temperature, humidity, pressure) and exports it to Prometheus via node\_exporter's textfile collector, with threshold alerts and Grafana/Perses dashboards.*
@@ -88,4 +88,4 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
