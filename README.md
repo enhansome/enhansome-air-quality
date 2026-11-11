@@ -30,7 +30,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
   * [py-quantaq](https://github.com/quant-aq/py-quantaq) ⭐ 11 | 🐛 3 | 🌐 Python | 📅 2025-12-24 - *A python wrapper for the QuantAQ RESTful API*
   * [The QuantAQ CLI](https://github.com/quant-aq/cli) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2026-10-26 - *QuantAQ command line interface*
   * [quantpy](https://github.com/wacl-york/quant-air-pollution-measurement-errors) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2023-04-27 - *Provides tools for visually evaluating low-cost air quality sensors*
-  * [airinsights](https://github.com/edf-org/airinsights) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2026-11-05 - Analysis suite to translate local air quality data into actionable insights.
+  * [airinsights](https://github.com/edf-org/airinsights) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2026-11-10 - Analysis suite to translate local air quality data into actionable insights.
   * [EnviroQC](https://github.com/LiuxinBlade/EnviroQC) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-10-28 - *Local, read-only data-quality screening (missing values, duplicates, format errors, configurable ranges) for air/water/soil monitoring CSV and Excel files*
 
 * R
@@ -88,4 +88,4 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._

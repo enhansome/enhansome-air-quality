@@ -420,7 +420,7 @@
                 "id": 1219229692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-05T21:52:16Z",
+                "last_commit": "2026-11-10T21:02:26Z",
                 "open_issues": 1,
                 "owner": "edf-org",
                 "repo": "airinsights",
@@ -1000,7 +1000,7 @@
                 "open_issues": 0,
                 "owner": "Sensirion",
                 "repo": "embedded-sgp",
-                "stars": 64,
+                "stars": 61,
                 "topics": [
                   "arduino",
                   "co2",
@@ -1473,7 +1473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T04:38:37.440Z",
+    "last_updated": "2026-11-11T02:49:58.060Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of air quality resources.",
