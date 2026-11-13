@@ -499,7 +499,7 @@
                 "id": 29305085,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-11T20:23:00Z",
+                "last_commit": "2026-11-12T16:15:05Z",
                 "open_issues": 32,
                 "owner": "openair-project",
                 "repo": "openair",
@@ -621,7 +621,7 @@
                 "id": 73397348,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-19T06:32:37Z",
+                "last_commit": "2026-11-12T16:35:08Z",
                 "open_issues": 4,
                 "owner": "openair-project",
                 "repo": "openairmaps",
@@ -1311,7 +1311,7 @@
                 "open_issues": 10,
                 "owner": "pimoroni",
                 "repo": "bme680-python",
-                "stars": 286,
+                "stars": 287,
                 "topics": [
                   "air-quality",
                   "pypi-package",
@@ -1473,7 +1473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T03:49:50.315Z",
+    "last_updated": "2026-11-13T03:25:54.649Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of air quality resources.",
