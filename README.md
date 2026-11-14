@@ -30,7 +30,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
   * [py-quantaq](https://github.com/quant-aq/py-quantaq) ⭐ 11 | 🐛 3 | 🌐 Python | 📅 2025-12-24 - *A python wrapper for the QuantAQ RESTful API*
   * [The QuantAQ CLI](https://github.com/quant-aq/cli) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2026-10-26 - *QuantAQ command line interface*
   * [quantpy](https://github.com/wacl-york/quant-air-pollution-measurement-errors) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2023-04-27 - *Provides tools for visually evaluating low-cost air quality sensors*
-  * [airinsights](https://github.com/edf-org/airinsights) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2026-11-10 - Analysis suite to translate local air quality data into actionable insights.
+  * [airinsights](https://github.com/edf-org/airinsights) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2026-11-13 - Analysis suite to translate local air quality data into actionable insights.
   * [EnviroQC](https://github.com/LiuxinBlade/EnviroQC) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-10-28 - *Local, read-only data-quality screening (missing values, duplicates, format errors, configurable ranges) for air/water/soil monitoring CSV and Excel files*
 
 * R
@@ -45,7 +45,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
   * [AMET](https://github.com/USEPA/AMET) ⭐ 26 | 🐛 3 | 🌐 R | 📅 2026-09-25 - Code base for the U.S. EPA’s Atmospheric Model Evaluation Tool (AMET).
   * [saqgetr](https://github.com/skgrange/saqgetr) ⭐ 11 | 🐛 2 | 🌐 R | 📅 2026-07-03 - Import Air Quality Monitoring Data in a Fast and Easy Way
   * [AirMonitor](https://github.com/MazamaScience/AirMonitor) ⭐ 10 | 🐛 1 | 🌐 HTML | 📅 2026-09-28 - *Utilities for working with air quality monitoring data* [CRAN](https://cran.r-project.org/web/packages/AirMonitor/index.html)
-  * [beethoven](https://github.com/NIEHS/beethoven) ⭐ 9 | 🐛 6 | 🌐 R | 📅 2026-11-04 - BEETHOVEN is: Building an Extensible, rEproducible, Test-driven, Harmonized, Open-source, Versioned, ENsemble model for air quality.
+  * [beethoven](https://github.com/NIEHS/beethoven) ⭐ 9 | 🐛 6 | 🌐 R | 📅 2026-11-13 - BEETHOVEN is: Building an Extensible, rEproducible, Test-driven, Harmonized, Open-source, Versioned, ENsemble model for air quality.
   * [Air Sensor Network Analysis Tool](https://github.com/USEPA/Air-Sensor-Network-Analysis-Tool-Public-) ⭐ 8 | 🐛 0 | 🌐 R | 📅 2026-09-30 - A tool to understand air sensor performance compared to nearby air monitors and to understand local air quality.
   * [quantr](https://github.com/wacl-york/quant-air-pollution-measurement-errors) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2023-04-27 - *Provides tools for visually evaluating low-cost air quality sensors*
   * [rPollution](https://github.com/openvironment/Rpollution) ⭐ 7 | 🐛 2 | 🌐 HTML | 📅 2021-04-15 - R functions to work with air pollution data
@@ -77,7 +77,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
 
 * Python
   * [bme680-python](https://github.com/pimoroni/bme680-python) ⭐ 287 | 🐛 10 | 🌐 Python | 📅 2026-09-18 - *Python library for the BME680 gas, temperature, humidity and pressure sensor.*
-  * [pyaqsapi](https://github.com/USEPA/pyaqsapi) ⭐ 30 | 🐛 11 | 🌐 Python | 📅 2026-11-09 - A python 3 package to retrieve ambient air monitoring data from the United States Environmental Protection Agency’s (US EPA) Air Quality System (AQS) Data Mart API v2 interface
+  * [pyaqsapi](https://github.com/USEPA/pyaqsapi) ⭐ 30 | 🐛 11 | 🌐 Python | 📅 2026-11-13 - A python 3 package to retrieve ambient air monitoring data from the United States Environmental Protection Agency’s (US EPA) Air Quality System (AQS) Data Mart API v2 interface
   * [Software to read out Sensirion SCD30 CO₂ Sensor values over I2C on Raspberry Pi](https://github.com/UnravelTEC/Raspi-Driver-SCD30) ⭐ 25 | 🐛 1 | 🌐 Python | 📅 2020-10-29
   * [py-licor](https://github.com/quant-aq/py-licor) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2019-11-06 - *Python logging software for the Licor 840 CO2/H2O analyzer*
   * [atmotube-prometheus](https://github.com/DanielEnki420/atmotube-prometheus) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-10-15 - *Reads an Atmotube PRO air sensor over Bluetooth LE (PM1/PM2.5/PM10, VOC, temperature, humidity, pressure) and exports it to Prometheus via node\_exporter's textfile collector, with threshold alerts and Grafana/Perses dashboards.*
@@ -88,4 +88,4 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
