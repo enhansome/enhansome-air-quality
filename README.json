@@ -1473,7 +1473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T03:13:25.716Z",
+    "last_updated": "2026-11-23T03:44:22.649Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of air quality resources.",
@@ -1485,7 +1485,7 @@
       "open_issues": 1,
       "owner": "openaq",
       "repo": "awesome-air-quality",
-      "stars": 73,
+      "stars": 74,
       "topics": [
         "air-quality",
         "aqi",
