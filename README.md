@@ -30,22 +30,22 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
   * [py-quantaq](https://github.com/quant-aq/py-quantaq) ⭐ 11 | 🐛 3 | 🌐 Python | 📅 2025-12-24 - *A python wrapper for the QuantAQ RESTful API*
   * [The QuantAQ CLI](https://github.com/quant-aq/cli) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2026-10-26 - *QuantAQ command line interface*
   * [quantpy](https://github.com/wacl-york/quant-air-pollution-measurement-errors) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2023-04-27 - *Provides tools for visually evaluating low-cost air quality sensors*
-  * [airinsights](https://github.com/edf-org/airinsights) ⭐ 2 | 🐛 3 | 🌐 Python | 📅 2026-11-17 - Analysis suite to translate local air quality data into actionable insights.
+  * [airinsights](https://github.com/edf-org/airinsights) ⭐ 2 | 🐛 3 | 🌐 Python | 📅 2026-11-23 - Analysis suite to translate local air quality data into actionable insights.
   * [EnviroQC](https://github.com/LiuxinBlade/EnviroQC) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-10-28 - *Local, read-only data-quality screening (missing values, duplicates, format errors, configurable ranges) for air/water/soil monitoring CSV and Excel files*
 
 * R
   * [CMAQ](https://github.com/USEPA/CMAQ) ⭐ 372 | 🐛 7 | 🌐 Fortran | 📅 2026-10-09 - Code for U.S. EPA’s Community Multiscale Air Quality Model (CMAQ) which helps in conducting air quality model simulations.
-  * [openair](https://github.com/davidcarslaw/openair) ⭐ 369 | 🐛 32 | 🌐 R | 📅 2026-11-20 - *Tools to analyse, interpret and understand air pollution data. Data are typically hourly time series and both monitoring data and dispersion model output can be analysed. Many functions can also be applied to other data, including meteorological and traffic data.* [CRAN](https://cran.r-project.org/web/packages/openair/index.html)
+  * [openair](https://github.com/davidcarslaw/openair) ⭐ 369 | 🐛 30 | 🌐 R | 📅 2026-11-24 - *Tools to analyse, interpret and understand air pollution data. Data are typically hourly time series and both monitoring data and dispersion model output can be analysed. Many functions can also be applied to other data, including meteorological and traffic data.* [CRAN](https://cran.r-project.org/web/packages/openair/index.html)
   * [rmweather](https://github.com/skgrange/rmweather) ⭐ 57 | 🐛 0 | 🌐 R | 📅 2025-12-03 - Tools to Conduct Meteorological Normalisation on Air Quality Data.
   * [AirSensor](https://github.com/MazamaScience/AirSensor) ⭐ 40 | 🐛 8 | 🌐 R | 📅 2023-04-26  - *Utilities for working with data from PurpleAir sensors*[CRAN](https://cran.r-project.org/web/packages/AirSensor/index.html)
   * [biteSizedAQ](https://github.com/AarshBatra/biteSizedAQ/) ⭐ 31 | 🐛 0 | 🌐 R | 📅 2026-10-16 - *A collection of bite sized projects aimed at democratizing access to air quality data, pipelines and insights in a manner that is free, open, accessible and easy to understand. Air pollution can feel like a giant overwhelming issue and it is, but by consistently taking bite-sized smart steps, we can collectively make significant progress in tackling it!*
   * [openairmaps](https://github.com/davidcarslaw/openairmaps) ⭐ 28 | 🐛 5 | 🌐 R | 📅 2026-11-20 - *mapping functions to support openair* [CRAN](https://cran.r-project.org/web/packages/openairmaps/index.html)
-  * [RAQSAPI](https://github.com/USEPA/RAQSAPI) ⭐ 28 | 🐛 3 | 🌐 R | 📅 2026-10-21 - A R extension to Retrieve EPA Air Quality System Data via the AQS Data Mart API.
+  * [RAQSAPI](https://github.com/USEPA/RAQSAPI) ⭐ 28 | 🐛 4 | 🌐 R | 📅 2026-10-21 - A R extension to Retrieve EPA Air Quality System Data via the AQS Data Mart API.
   * [qualR](https://github.com/ropensci/qualR) ⭐ 27 | 🐛 9 | 🌐 R | 📅 2026-10-09 - This is the qualR package, it will help you bring São Paulo and Rio de Janeiro air quality data to your R session 🇧🇷.
   * [AMET](https://github.com/USEPA/AMET) ⭐ 26 | 🐛 3 | 🌐 R | 📅 2026-09-25 - Code base for the U.S. EPA’s Atmospheric Model Evaluation Tool (AMET).
   * [saqgetr](https://github.com/skgrange/saqgetr) ⭐ 11 | 🐛 2 | 🌐 R | 📅 2026-07-03 - Import Air Quality Monitoring Data in a Fast and Easy Way
   * [AirMonitor](https://github.com/MazamaScience/AirMonitor) ⭐ 10 | 🐛 1 | 🌐 HTML | 📅 2026-09-28 - *Utilities for working with air quality monitoring data* [CRAN](https://cran.r-project.org/web/packages/AirMonitor/index.html)
-  * [beethoven](https://github.com/NIEHS/beethoven) ⭐ 9 | 🐛 5 | 🌐 R | 📅 2026-11-20 - BEETHOVEN is: Building an Extensible, rEproducible, Test-driven, Harmonized, Open-source, Versioned, ENsemble model for air quality.
+  * [beethoven](https://github.com/NIEHS/beethoven) ⭐ 9 | 🐛 5 | 🌐 R | 📅 2026-11-23 - BEETHOVEN is: Building an Extensible, rEproducible, Test-driven, Harmonized, Open-source, Versioned, ENsemble model for air quality.
   * [Air Sensor Network Analysis Tool](https://github.com/USEPA/Air-Sensor-Network-Analysis-Tool-Public-) ⭐ 8 | 🐛 0 | 🌐 R | 📅 2026-09-30 - A tool to understand air sensor performance compared to nearby air monitors and to understand local air quality.
   * [quantr](https://github.com/wacl-york/quant-air-pollution-measurement-errors) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2023-04-27 - *Provides tools for visually evaluating low-cost air quality sensors*
   * [rPollution](https://github.com/openvironment/Rpollution) ⭐ 7 | 🐛 2 | 🌐 HTML | 📅 2021-04-15 - R functions to work with air pollution data
@@ -88,4 +88,4 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
