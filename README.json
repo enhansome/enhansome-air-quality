@@ -503,7 +503,7 @@
                 "open_issues": 30,
                 "owner": "openair-project",
                 "repo": "openair",
-                "stars": 369,
+                "stars": 370,
                 "topics": [
                   "air-quality",
                   "air-quality-data",
@@ -594,7 +594,7 @@
                 "open_issues": 5,
                 "owner": "openair-project",
                 "repo": "openairmaps",
-                "stars": 28,
+                "stars": 29,
                 "topics": [
                   "openair",
                   "package",
@@ -1473,7 +1473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T06:57:56.499Z",
+    "last_updated": "2026-11-25T05:27:07.680Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of air quality resources.",
